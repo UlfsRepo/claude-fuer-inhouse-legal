@@ -1,0 +1,9 @@
+{
+  "name": "legal-operations",
+  "description": "Kernmodul Legal Operations für Inhouse-Rechtsabteilungen: Wissensbibliothek-Architekt (DMS-Struktur, Namenskonvention, Governance-1-Pager), Matter-Intake-System (Matterliste, Wochenroutine, Fristen-/Auslastungsbericht), M&A-Playbook-Baukasten (DD-/PMI-Checklisten, Kanzlei-Briefing), Self-Service-Playbooks für Landesgesellschaften (Reserved-Matters-Katalog, Entscheidungsbaum), Zielstand-Review und Governance-Format — plus verpflichtendes Vertraulichkeits-Gate und fiktive Testakte.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ulf Marhenke",
+    "email": "ulf.marhenke@trustwork.consulting"
+  }
+}
