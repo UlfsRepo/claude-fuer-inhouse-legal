@@ -22,6 +22,10 @@ Kompakte Einstiege für jeden Skill — funktionieren in Claude ebenso wie per C
 
 > Erstelle ein englischsprachiges Self-Service-Playbook zum Thema [z. B. litigation intake] für die Landesgesellschaften eines internationalen Unternehmens. Struktur: Scope / You can decide / Red flags / Escalate when / How to escalate. Ergänze einen Reserved-Matters-Katalog mit Platzhalter-Schwellen (`[THRESHOLD]`) und einen einseitigen Entscheidungsbaum als Abgabe-Kriterium an die Zentrale. Zielgruppe sind Nicht-Juristen — kurze Sätze, keine unerklärten Paragraphen.
 
+## Delegation-of-Authority-Regelung aufbauen
+
+> Du bist Legal-Operations-Berater. Hilf mir, eine Delegation-of-Authority-Regelung (DoA) aufzubauen — Auslöser: [Audit-Finding einfügen / proaktiv], Scope: [eine Gesellschaft / Gruppe mit N Gesellschaften]. Liefere: (1) Bestandsaufnahme-Tabelle der existierenden Regelwerke mit Lückenliste, (2) DoA-Matrix (Geschäftsvorfall × Wertstufe × Freigaberolle × Unterschriftsregel) mit Platzhalter-Schwellen (`[BETRAG]`), (3) Gliederungsentwurf der Unterschriften-Policy mit strikter Trennung externe Vertretung / interne Freigaben, (4) bei Audit-Auslöser einen Maßnahmenplan mit Nachweisdokumenten je Finding-Bestandteil. Regeln: Rollen statt Personen; Signaturform ist kein Regelungsgegenstand; Vertretung ist je Rechtsträger zu regeln. Stelle zuerst maximal 5 Rückfragen.
+
 ## Zielstand-Review durchführen
 
 > Führe einen Zielstand-Review durch. Hier meine Ziele mit Stand: [Inhalt der lokalen zielstand.md einfügen — oder zum Üben die Testakte: testakte/zielstand.md]. Restzeit bis zur Frist: [N Wochen]. Liefere: Ampel je Ziel mit Ein-Satz-Begründung, Lücke bis 100 % (Übererfüllung nur, wo 100 % gesichert ist), maximal 3 Prioritäten für nächste Woche, Risiken/Abhängigkeiten. Regel: kein Übererfüllungs-Aufwand, solange ein Ziel rot ist.

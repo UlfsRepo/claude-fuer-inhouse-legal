@@ -23,7 +23,7 @@ Dieses Repo enthält ausschließlich **Methodik**: wie man eine Wissensbibliothe
 
 | Plugin | Status | Inhalt |
 |---|---|---|
-| **[legal-operations](legal-operations/)** | ✅ v0.1.0 | Wissensbibliothek-Architekt, Matter-Intake-System, M&A-Playbook-Baukasten, Self-Service-Playbooks für Landesgesellschaften, Zielstand-Review, Governance-Format, Vertraulichkeits-Gate, Testakte |
+| **[legal-operations](legal-operations/)** | ✅ v0.2.0 | Wissensbibliothek-Architekt, Matter-Intake-System, M&A-Playbook-Baukasten, Self-Service-Playbooks für Landesgesellschaften, Delegation-of-Authority-Baukasten, Zielstand-Review, Governance-Format, Vertraulichkeits-Gate, Testakte |
 | vertragsarbeit | 🔜 geplant | Playbook-gestützte Vertragsprüfung, Klausel-Bibliothek, Eskalationsmarker |
 | compliance-und-datenschutz | 🔜 geplant | DSGVO-Arbeitsabläufe, Schulungsunterlagen, Audit-Vorbereitung |
 | legal-reporting | 🔜 geplant | Management-Reports, KPI-Definitionen, Quartalsberichte |
