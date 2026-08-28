@@ -18,6 +18,10 @@ Kompakte Einstiege für jeden Skill — funktionieren in Claude ebenso wie per C
 
 > Erstelle für die Rechtsabteilung eines [Branche]-Unternehmens ein M&A-Playbook: Due-Diligence-Checklisten je Workstream (Corporate, Commercial, Compliance, IT/Datenschutz, IP, KI) mit den Spalten Prüfpunkt / Unterlagen / Red Flags, eine PMI-Checkliste (Day 1, 100 Tage, Jahr 1) und ein Kanzlei-Briefing-Template. Zuschnitt: [Share Deal / Asset Deal], [Zielgröße], [Jurisdiktionen]. Frage fehlende Parameter ab, bevor du beginnst.
 
+## PMI-Playbook erstellen
+
+> Erstelle ein eigenständiges Post-Merger-Integration-Playbook aus Legal-Perspektive für [Integrationstiefe: Vollintegration / teilautonome Tochter], Deal: [Share/Asset, Größe, Jurisdiktionen, TSAs ja/nein]. Liefere: (1) Integrations-Governance (Integration Lead, Workstream-Owner, Sponsor, Berichtsrhythmus, Eskalationsregel „blockiert >1 Woche → Lead, >2 Wochen → Sponsor"), (2) Phasenplan Day 1 / 100 Tage / Jahr 1 mit Verantwortlich/Frist/Status/Abhängigkeit und Phasen-Gates, (3) DD-Findings-Register und TSA-Tracking-Tabelle (Regel: 90 Tage vor TSA-Ende bewusste Verlängern/Beenden-Entscheidung), (4) Modul Kulturelle Passung: Kultur-Schnellcheck-Workshop (5 Dimensionen), Zusammenarbeitsregeln-1-Pager, Schlüsselpersonen-Radar, (5) Abschlusskriterien. Wertgrenzen als Platzhalter (`[BETRAG]`).
+
 ## Self-Service-Playbook für Landesgesellschaften
 
 > Erstelle ein englischsprachiges Self-Service-Playbook zum Thema [z. B. litigation intake] für die Landesgesellschaften eines internationalen Unternehmens. Struktur: Scope / You can decide / Red flags / Escalate when / How to escalate. Ergänze einen Reserved-Matters-Katalog mit Platzhalter-Schwellen (`[THRESHOLD]`) und einen einseitigen Entscheidungsbaum als Abgabe-Kriterium an die Zentrale. Zielgruppe sind Nicht-Juristen — kurze Sätze, keine unerklärten Paragraphen.
