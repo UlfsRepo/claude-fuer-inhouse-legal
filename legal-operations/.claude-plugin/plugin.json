@@ -1,7 +1,7 @@
 {
   "name": "legal-operations",
-  "description": "Kernmodul Legal Operations für Inhouse-Rechtsabteilungen: Wissensbibliothek-Architekt (DMS-Struktur, Namenskonvention, Governance-1-Pager), Matter-Intake-System (Matterliste, Wochenroutine, Fristen-/Auslastungsbericht), M&A-Playbook-Baukasten (DD-/PMI-Checklisten, Kanzlei-Briefing), PMI-Playbook (Integrations-Governance, Findings-/TSA-Register, Kulturmodul), Self-Service-Playbooks für Landesgesellschaften (Reserved-Matters-Katalog, Entscheidungsbaum), Delegation-of-Authority-Baukasten (Freigabematrix, Unterschriften-Policy, Audit-Response), Zielstand-Review und Governance-Format — plus verpflichtendes Vertraulichkeits-Gate und fiktive Testakte.",
-  "version": "0.3.0",
+  "description": "Kernmodul Legal Operations für Inhouse-Rechtsabteilungen: Wissensbibliothek-Architekt (DMS-Struktur, Namenskonvention, Governance-1-Pager), Matter-Intake-System (Matterliste, Wochenroutine, Fristen-/Auslastungsbericht), M&A-Playbook-Baukasten (DD-/PMI-Checklisten, Kanzlei-Briefing), PMI-Playbook (Integrations-Governance, rechtlicher Integrations-Workstream, Findings-/TSA-Register, Kulturmodul), Self-Service-Playbooks für Landesgesellschaften (Reserved-Matters-Katalog, Entscheidungsbaum), Delegation-of-Authority-Baukasten (Freigabematrix, Unterschriften-Policy, Audit-Response), Zielstand-Review und Governance-Format — plus verpflichtendes Vertraulichkeits-Gate und fiktive Testakte.",
+  "version": "0.3.1",
   "author": {
     "name": "Ulf Marhenke",
     "email": "ulf.marhenke@trustwork.consulting"

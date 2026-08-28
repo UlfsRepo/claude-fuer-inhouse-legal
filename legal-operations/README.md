@@ -11,7 +11,7 @@ Kernmodul für Inhouse-Rechtsabteilungen, die ihre Arbeitsorganisation professio
 | [wissensbibliothek](skills/wissensbibliothek/SKILL.md) | DMS-Fundament: Struktur, Namenskonvention, Ablageregeln, Migration, Governance-1-Pager |
 | [matter-intake](skills/matter-intake/SKILL.md) | Matterliste, Intake über Outlook-Kategorien, Wochenroutine, Fristen-/Auslastungsbericht |
 | [ma-playbook](skills/ma-playbook/SKILL.md) | DD-Checklisten je Workstream, PMI-Checkliste, Kanzlei-Briefing — parametrisiert nach Transaktion |
-| [pmi-playbook](skills/pmi-playbook/SKILL.md) | Eigenständiges PMI-Playbook: Integrations-Governance, Findings-/TSA-Register, Kulturmodul, Abschlusskriterien |
+| [pmi-playbook](skills/pmi-playbook/SKILL.md) | Eigenständiges PMI-Playbook: Integrations-Governance, Legal-Workstream im Detail (Gesellschafts-/Arbeitsrecht, Litigation, Vollmachten, Register), Findings-/TSA-Register, Kulturmodul, Abschlusskriterien |
 | [landesgesellschaften-playbooks](skills/landesgesellschaften-playbooks/SKILL.md) | Englische Self-Service-Playbooks, Reserved-Matters-Katalog, Entscheidungsbaum |
 | [delegation-of-authority](skills/delegation-of-authority/SKILL.md) | DoA-Regelung: Bestandsaufnahme, Freigabematrix, Unterschriften-Policy, Audit-Response |
 | [zielstand-review](skills/zielstand-review/SKILL.md) | Wochen-Review gegen Jahresziele mit Ampel, Lückenanalyse, Top-3-Prioritäten |
