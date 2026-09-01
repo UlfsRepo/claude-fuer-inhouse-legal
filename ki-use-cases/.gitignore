@@ -1,0 +1,11 @@
+# Vertrauliches bleibt lokal – nie committen:
+# echte Verträge, Rechnungen, Anfragen, ausgefüllte Playbooks/Guidelines
+*.pdf
+*.docx
+*.xlsx
+*.msg
+*.eml
+vertraulich/
+intern/
+echt-*/
+.DS_Store

@@ -28,6 +28,10 @@ Dieses Repo enthält ausschließlich **Methodik**: wie man eine Wissensbibliothe
 | compliance-und-datenschutz | 🔜 geplant | DSGVO-Arbeitsabläufe, Schulungsunterlagen, Audit-Vorbereitung |
 | legal-reporting | 🔜 geplant | Management-Reports, KPI-Definitionen, Quartalsberichte |
 
+## KI-Use-Cases (toolunabhängige Prompt-Sammlung)
+
+Neben den Claude-Code-Plugins enthält das Repo unter **[ki-use-cases](ki-use-cases/)** fünf ausgearbeitete KI-Use-Cases für Rechtsabteilungen — je mit Umsetzungsleitfaden, kopierfertigem System-Prompt (z. B. für ChatGPT-Enterprise-Custom-GPTs), Wissensbasis-Vorlagen und Testprotokoll: Vertragsprüfung gegen Legal Playbook, Kundendienst-Legal-GPT, Legal-Triage-Assistent, Filing Assistant (Ablage-Klassifikation) und Legal Invoice Checker. Entstanden aus einem realen Hackathon, vollständig anonymisiert.
+
 ## Bauprinzip aller Module
 
 1. **Methodik öffentlich, Daten lokal** — Skills beschreiben das Wie; das Was (Mandate, Ziele, Zahlen) bleibt beim Nutzer
