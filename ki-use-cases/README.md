@@ -1,8 +1,8 @@
 # KI-Use-Cases für Inhouse-Legal-Teams
 
-Fünf praxiserprobte KI-Use-Cases für Rechtsabteilungen — entstanden aus einem
-realen Hackathon eines Inhouse-Legal-Teams, hier vollständig anonymisiert und
-generisch aufbereitet. Jeder Use Case hat einen eigenen Ordner mit
+Sechs praxiserprobte KI-Use-Cases für Rechtsabteilungen — entstanden aus einem
+realen Hackathon eines Inhouse-Legal-Teams und dessen Folgearbeit, hier
+vollständig anonymisiert und generisch aufbereitet. Jeder Use Case hat einen eigenen Ordner mit
 Umsetzungsleitfaden, fertigem System-Prompt und Vorlagen für die Wissensbasis.
 
 Das Tool-Setup (ChatGPT Enterprise, M365/Outlook Copilot ohne Copilot Studio,
@@ -10,7 +10,7 @@ GitHub Copilot) entspricht dem, was viele Unternehmen heute freigegeben haben �
 die Prompts funktionieren aber in jedem LLM mit Datei-Upload und
 Wissensbasis-Funktion (siehe [Vertraulichkeitsprinzip](../README.md) des Repos).
 
-## Die 5 Use Cases
+## Die 6 Use Cases
 
 | # | Use Case | Primäres Tool | Workshop-Ziel |
 |---|----------|---------------|----------------------|
@@ -19,10 +19,11 @@ Wissensbasis-Funktion (siehe [Vertraulichkeitsprinzip](../README.md) des Repos).
 | 3 | [Legal-Triage-Assistent](03-legal-triage-assistent/) | ChatGPT Enterprise (Custom GPT) | Kategorien-/Prioritätslogik + Prompt, Test mit 5–10 anonymisierten Anfragen |
 | 4 | [Filing Assistant](04-filing-assistant/) | ChatGPT Enterprise + Outlook Copilot (Pilot manuell) | Taxonomie, Metadaten-Set, Klassifikations-Prompt, Trefferquote messen |
 | 5 | [Legal Invoice Checker](05-legal-invoice-checker/) | ChatGPT Enterprise (Custom GPT + Billing Guidelines) | Guidelines strukturieren, Prompt bauen, Test mit 2–3 anonymisierten Rechnungen |
+| 6 | [Pitch Analyzer](06-pitch-analyzer/) | ChatGPT Enterprise (Custom GPT + RFP/Kriterien als Wissensbasis) | Response-Template + Kriterien definieren, Prompt bauen, Test mit 2–3 Dummy-Angeboten |
 
 ## Verfügbare Tools und ihre Rolle
 
-- **ChatGPT Enterprise** – Arbeitspferd für alle 5 Use Cases. Custom GPTs mit
+- **ChatGPT Enterprise** – Arbeitspferd für alle 6 Use Cases. Custom GPTs mit
   Instructions (System-Prompt) und hochgeladenen Wissensdateien (Playbook, Guidelines,
   FAQ, Taxonomie). Kein Copilot Studio nötig.
 - **Microsoft Outlook 365 Copilot** – unterstützend: E-Mail-Entwürfe aus
