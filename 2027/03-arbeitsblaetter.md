@@ -6,7 +6,7 @@ Vier Vorlagen: A und C/D als Flipcharts vorbereiten, B als Handout drucken (3×)
 
 ## Vorlage A — Capture-Raster für die Beiträge (Block 4)
 
-Je Beitrag ein Flipchart (3× vorbereiten). Ulf füllt während des Beitrags aus.
+Je Beitrag ein Flipchart (3× vorbereiten). Der Moderator füllt während des Beitrags aus.
 
 ```
 BEREICH: ______________________  (Teammitglied 1 / 2 / 3)
