@@ -1,0 +1,12 @@
+# Vertrauliche Originale und unternehmensspezifische Inhalte — bleiben lokal
+beispiele/**/vertraulich/
+beispiele/**/*.pdf
+
+# Echte Prozessdokumente entstehen in der internen Ablage, nicht im Repo
+prozesse/
+
+# Testergebnisse können interne Details enthalten
+tests/ergebnisse/
+
+# System
+.DS_Store

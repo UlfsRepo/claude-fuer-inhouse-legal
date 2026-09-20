@@ -32,6 +32,10 @@ Dieses Repo enthält ausschließlich **Methodik**: wie man eine Wissensbibliothe
 
 Neben den Claude-Code-Plugins enthält das Repo unter **[ki-use-cases](ki-use-cases/)** fünf ausgearbeitete KI-Use-Cases für Rechtsabteilungen — je mit Umsetzungsleitfaden, kopierfertigem System-Prompt (z. B. für ChatGPT-Enterprise-Custom-GPTs), Wissensbasis-Vorlagen und Testprotokoll: Vertragsprüfung gegen Legal Playbook, Kundendienst-Legal-GPT, Legal-Triage-Assistent, Filing Assistant (Ablage-Klassifikation) und Legal Invoice Checker. Entstanden aus einem realen Hackathon, vollständig anonymisiert.
 
+## Prozesslandkarte (Prozessdokumentations-Framework)
+
+Unter **[prozesslandkarte](prozesslandkarte/)** liegt ein vollständiges Framework, um die Prozesse eines Bereichs systematisch zu erfassen und KI-tauglich zu dokumentieren: Landkarten- und Prozess-Templates, ein KI-geführtes Interview-Format (als Claude-Skill und als Custom-GPT-Instructions für ChatGPT Enterprise), Mitarbeiter-Leitfaden, KI-Potenzial-Analyse, ein anonymisiertes Beispiel (Krisenkommunikation) sowie Testplan und Prüfbogen. Einstieg über den [Einsteiger-Leitfaden](prozesslandkarte/LEITFADEN-EINSTEIGER.md); ein Starter-Paket für Legal liegt unter [starter-pakete/legal](prozesslandkarte/starter-pakete/legal/).
+
 ## Bauprinzip aller Module
 
 1. **Methodik öffentlich, Daten lokal** — Skills beschreiben das Wie; das Was (Mandate, Ziele, Zahlen) bleibt beim Nutzer

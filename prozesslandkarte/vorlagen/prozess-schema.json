@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "prozess-schema.json",
+  "title": "Prozessdokument",
+  "description": "Schema für den YAML-Frontmatter eines Prozessdokuments der Prozesslandkarte. Die Abschnitte 1-11 des Markdown-Körpers sind in 'abschnitte' beschrieben.",
+  "type": "object",
+  "required": ["prozess_id", "name", "bereich", "verantwortlich", "status", "version", "letzte_aktualisierung", "ausloeser_typ", "kritikalitaet"],
+  "properties": {
+    "prozess_id": {
+      "type": "string",
+      "pattern": "^[A-Z]{2,4}-[0-9]{2}$",
+      "description": "Bereichskürzel + laufende Nummer, z. B. UK-03"
+    },
+    "name": { "type": "string" },
+    "bereich": { "type": "string" },
+    "verantwortlich": { "type": "string", "description": "Rolle, optional mit Name" },
+    "vertretung": { "type": "string" },
+    "status": { "enum": ["entwurf", "in_pruefung", "freigegeben"] },
+    "version": { "type": "string" },
+    "letzte_aktualisierung": { "type": "string", "format": "date" },
+    "dokumentiert_von": { "type": "string" },
+    "ausloeser_typ": { "enum": ["anlassbezogen", "terminiert", "auf_anfrage"] },
+    "frequenz": { "type": "string" },
+    "dauer_gesamt": { "type": "string" },
+    "kritikalitaet": { "enum": ["hoch", "mittel", "niedrig"] },
+    "ki_potenzial": { "enum": ["noch_nicht_bewertet", "hoch", "mittel", "niedrig"] },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "systeme": { "type": "array", "items": { "type": "string" } }
+  },
+  "abschnitte": {
+    "beschreibung": "Pflichtgliederung des Markdown-Körpers",
+    "reihenfolge": [
+      { "nr": 1, "titel": "Zweck & Ergebnis" },
+      { "nr": 2, "titel": "Auslöser" },
+      { "nr": 3, "titel": "Input & Voraussetzungen" },
+      { "nr": 4, "titel": "Beteiligte Rollen", "format": "tabelle" },
+      { "nr": 5, "titel": "Ablauf", "format": "schritte mit Wer/Was/Womit/Dauer/Ergebnis" },
+      { "nr": 6, "titel": "Entscheidungspunkte & Regeln", "format": "WENN/DANN" },
+      { "nr": 7, "titel": "Output & Qualitätskriterien", "format": "checkliste" },
+      { "nr": 8, "titel": "Ausnahmen & Sonderfälle" },
+      { "nr": 9, "titel": "Kopfwissen" },
+      { "nr": 10, "titel": "Schmerzpunkte & Ideen" },
+      { "nr": 11, "titel": "KI-Potenzial", "format": "neu-denken-antwort + tabelle je schritt" }
+    ]
+  }
+}
