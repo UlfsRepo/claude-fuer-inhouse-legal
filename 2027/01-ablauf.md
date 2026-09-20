@@ -3,6 +3,8 @@
 Teilnehmende: Moderator (zugleich Teilnehmer) + drei Teammitglieder.
 Material gesamt: Flipchart, Moderationskarten/Sticky Notes, dicke Stifte, Blanko-Blätter A4, Timer, vorbereitete Flipcharts (siehe `03-arbeitsblaetter.md`).
 
+Dramaturgie: Beiträge (2027) **vor** der Vision (2030) — die vorbereitete Arbeit bekommt zuerst ihre Bühne, die Kaffeepause ist der bewusste Modus-Bruch, danach ist die gemeinsame Vision 2030 die Kernarbeit, aus der die Synthese fließt.
+
 ---
 
 ## Block 1 — Rahmen & Ziel (9:00–9:10, 10 Min)
@@ -19,11 +21,11 @@ Material gesamt: Flipchart, Moderationskarten/Sticky Notes, dicke Stifte, Blanko
 
 ---
 
-## Block 2 — Selbstporträt (9:10–9:40, 30 Min)
+## Block 2 — Selbstporträt, kompakt (9:10–9:35, 25 Min)
 
 **Ziel:** Ton setzen — wir zeigen uns als Menschen, nicht nur als Funktionsträger*innen.
 
-**Methode:** Jede Person zeichnet sich selbst (A4, ca. 8 Min):
+**Methode:** Jede Person zeichnet sich selbst (A4, ca. 6 Min):
 - **Kopf** — was mich gerade beschäftigt
 - **Herz** — was mir wichtig ist
 - **Hände** — woran ich gerade baue
@@ -38,66 +40,60 @@ Dann teilt jede Person ca. 4 Min ihr Bild. Die anderen hören zu; maximal eine V
 
 ---
 
-## Block 3 — Zielbild-Übung „JUVE Award 2030" (9:40–10:15, 35 Min)
+## Block 3 — Die vorbereiteten Beiträge: Zielbild 2027 (9:35–10:30, 55 Min)
 
-**Ziel:** Ambition öffnen, bevor es konkret wird — individuelles Gespür dafür, wie jedes Teammitglied das Zielbild der Rechtsabteilung formuliert.
+**Ziel:** Die Hausaufgabe bekommt zuerst ihre Bühne — Zielbild 2027 und Standortbestimmung je Verantwortungsbereich, mit frischer Energie präsentiert.
 
-**Methode:**
-> *Stellt euch vor: Wir haben den renommierten JUVE Award als „Best AI-powered Legal Team 2030" gewonnen. Ihr schreibt den Artikel für die Intranet Corporate News.*
+**Methode:** Drei Beiträge à 10 Min (je Teammitglied, Reihenfolge vorher festlegen) + je 6–8 Min Resonanz und Rückfragen.
 
-Jede Person schreibt einzeln (15 Min) einen kurzen Artikel mit:
-- Headline
-- Key Achievements
-- Zitat einer Führungskraft aus dem Business
-- Was hat sich verändert?
-- Warum war es erfolgreich?
-
-Dann liest jede Person vor (je ca. 4 Min), ohne Diskussion — nur Zuhören. Der Moderator notiert wiederkehrende Motive auf Moderationskarten.
-
-**Ansage:** „Seid ambitioniert. Nehmt an, dass KI bis 2030 deutlich gereift ist."
-
-**Material:** Schreibvorlage (siehe `03-arbeitsblaetter.md`, Vorlage B); Slide 5.
-
----
-
-## Pause (10:15–10:30)
-
----
-
-## Block 4 — Die vorbereiteten Beiträge (10:30–11:30, 60 Min)
-
-**Ziel:** Konkretisierung und Standortbestimmung je Verantwortungsbereich — die vorbereitete Arbeit vollständig würdigen.
-
-**Methode:** Drei Beiträge à 10 Min (Reihenfolge vorher festlegen) + je ca. 8 Min Resonanz und Rückfragen. Rahmung: „Was heißt das Zielbild für euren Bereich — und wo stehen wir heute?"
-
-Der Moderator dokumentiert live auf dem **Capture-Raster** (Vorlage A in `03-arbeitsblaetter.md`): Zielbild 2027, Status quo, Stoßrichtungen, neu/anders/stoppen, Indikatoren, Bedarf vom Team.
+Der Moderator dokumentiert live auf dem **Capture-Raster** (Vorlage A in `03-arbeitsblaetter.md`): Zielbild 2027, Status quo, Stoßrichtungen, neu/anders/stoppen, Indikatoren, Bedarf vom Team. Diese Inhalte tragen später die Sortierung (Block 5) — sie haben im Award-Artikel keinen Platz und dürfen nicht verloren gehen.
 
 **Hinweis:** Timer sichtbar; Resonanz heißt Rückfragen und Verstärkung, keine Bewertung.
 
-**Material:** Capture-Raster als 3 vorbereitete Flipcharts; Slide 6 (Leitfragen zur Erinnerung).
+**Material:** Capture-Raster als 3 vorbereitete Flipcharts; Slide 5 (Leitfragen zur Erinnerung).
 
 ---
 
-## Block 5 — Synthese: Muster & Sortierung (11:30–12:10, 40 Min)
+## Pause (10:30–10:45) — der Modus-Bruch
 
-**Ziel:** Aus JUVE-Artikeln und Beiträgen einen gemeinsamen Zielbild-Kern und 3–5 strategische Themen verdichten.
+Nach der Pause explizit ansagen: Analyse-Modus aus, jetzt wird gesprungen (Karte 4).
 
-**Methode in zwei Schritten:**
+---
 
-1. **Zielbild-Kern (15 Min):** Wiederkehrende Motive aus Block 3 + 5 sammeln — was taucht in mehreren Artikeln/Beiträgen auf? Bei Bedarf entlang der sechs Dimensionen clustern: Clients · Lawyers · Services & Work · Knowledge · Organization · Culture.
-2. **Sortierung gegen die Strategie 2024–2026 (25 Min):** Die vier Fragen aus der Ankündigungs-Mail als Raster (Cluster-Wand, Vorlage C):
-   - Was ist weiterhin richtig und wichtig?
-   - Was hat sich verändert — was müssen wir anders machen?
-   - Was sollte neu dazukommen?
-   - Was sollten wir bewusst nicht mehr oder anders machen?
+## Block 4 — Kernarbeit: Vision 2030 „JUVE Award" (10:45–11:25, 40 Min)
+
+**Ziel:** Das gemeinsame Zielbild — der Höhepunkt des Vormittags, gespeist aus den Beiträgen, aber vom Ende her erzählt statt fortgeschrieben.
+
+**Methode in drei Schritten:**
+> *Stellt euch vor: Wir haben den renommierten JUVE Award als „Best AI-powered Legal Team 2030" gewonnen. Ihr schreibt den Artikel für die Intranet Corporate News.*
+
+1. **Einzeln schreiben (12 Min):** Headline · Key Achievements · Zitat einer Führungskraft aus dem Business · Was hat sich verändert? · Warum war es erfolgreich? Erst einzeln — sonst ankert das Team aufeinander.
+2. **Vorlesen (12 Min):** Jede Person liest vor, ohne Diskussion. Der Moderator notiert wiederkehrende Motive auf Karten.
+3. **Verdichten (15 Min):** Gemeinsame Motive sammeln → Zielbild-Kern formulieren. Bei Bedarf entlang der sechs Dimensionen clustern: Clients · Lawyers · Services & Work · Knowledge · Organization · Culture.
+
+**Ansage (gegen das Ankern):** „Nicht euer 2027 fortschreiben — schreibt die Geschichte vom Ende her. Der Artikel erklärt nicht den Weg, er feiert das Ergebnis. Seid ambitioniert; nehmt an, dass KI bis 2030 deutlich gereift ist."
+
+**Material:** Schreibvorlage (Vorlage B, `03-arbeitsblaetter.md`); Slide 6.
+
+---
+
+## Block 5 — Sortierung gegen die Strategie 2024–2026 (11:25–12:00, 35 Min)
+
+**Ziel:** Zielbild-Kern und Beitrags-Inhalte gegen die bestehende Strategie halten und zu 3–5 strategischen Themen verdichten.
+
+**Methode:** Die vier Fragen aus der Ankündigungs-Mail als Raster (Cluster-Wand, Vorlage C), befüllt aus Zielbild-Kern (Block 4) und Capture-Rastern (Block 3):
+- Was ist weiterhin richtig und wichtig?
+- Was hat sich verändert — was müssen wir anders machen?
+- Was sollte neu dazukommen?
+- Was sollten wir bewusst nicht mehr oder anders machen?
 
 **Material:** Cluster-Wand als Flipchart (4 Quadranten), Sticky Notes; Slide 7.
 
 ---
 
-## Block 6 — Botschaft für den 29.09. (12:10–12:25, 15 Min)
+## Block 6 — Botschaft für den 29.09. (12:00–12:20, 20 Min)
 
-**Ziel:** Die 3–5 Themen so formulieren, dass sie ohne Übersetzungsarbeit in den Führungskreis getragen werden können.
+**Ziel:** Zielbild-Kern und Themen so formulieren, dass sie ohne Übersetzungsarbeit in den Führungskreis getragen werden können.
 
 **Methode:** Ergebnis-Canvas (Vorlage D) gemeinsam ausfüllen: Zielbild-Kern in 2–3 Sätzen, je Thema ein Satz + ein „Woran erkennen wir Fortschritt"-Indikator. Kurz klären: Wer validiert das Ergebnisdokument vor dem 29.09.?
 
@@ -105,7 +101,7 @@ Der Moderator dokumentiert live auf dem **Capture-Raster** (Vorlage A in `03-arb
 
 ---
 
-## Block 7 — Check-out (12:25–12:30, 5 Min)
+## Block 7 — Check-out (12:20–12:30, 10 Min)
 
 **Ziel:** Sauber landen.
 
@@ -115,4 +111,4 @@ Der Moderator dokumentiert live auf dem **Capture-Raster** (Vorlage A in `03-arb
 
 ## Zeitpuffer-Logik
 
-Läuft Block 4 über (wahrscheinlichster Fall), wird Block 5 Schritt 1 auf 10 Min gekürzt (Motive nur sammeln, nicht clustern). Block 6 ist geschützt — ohne Botschaft für den 29.09. hat der Vormittag sein Ziel verfehlt.
+Läuft Block 3 über (wahrscheinlichster Fall), Resonanz auf 5 Min je Beitrag kürzen. Läuft Block 4 über, das Verdichten (Schritt 3) in Block 5 hineinziehen — Sortierung dann auf 25 Min. Block 6 ist geschützt — ohne Botschaft für den 29.09. hat der Vormittag sein Ziel verfehlt.

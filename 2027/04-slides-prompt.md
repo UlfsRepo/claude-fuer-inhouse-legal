@@ -41,35 +41,36 @@ Slide 2 — Warum heute:
 
 Slide 3 — Agenda des Vormittags:
   Schlanke Zeitleiste, sechs Einträge:
-  9:00 Rahmen · 9:10 Selbstporträt · 9:40 Zielbild 2030 ·
-  10:30 Eure Beiträge · 11:30 Synthese · 12:10 Botschaft für den 29.09.
-  (Pause 10:15–10:30 dezent markieren)
+  9:00 Rahmen · 9:10 Selbstporträt · 9:35 Eure Beiträge (Zielbild 2027) ·
+  10:45 Vision 2030 · 11:25 Sortierung · 12:00 Botschaft für den 29.09.
+  (Pause 10:30–10:45 dezent markieren)
 
 Slide 4 — Selbstporträt (Anleitung):
   Drei Zeilen mit je einem Stichwort-Icon-Platzhalter:
   KOPF — was mich gerade beschäftigt
   HERZ — was mir wichtig ist
   HÄNDE — woran ich gerade baue
-  Darunter klein: „8 Min zeichnen · je 4 Min erzählen · nur Zuhören,
+  Darunter klein: „6 Min zeichnen · je 4 Min erzählen · nur Zuhören,
   max. eine Verständnisfrage · Blätter bleiben bei euch"
 
-Slide 5 — Zielbild-Übung „JUVE Award 2030":
-  Aufmacher-Zeile: „2030: Wir haben den JUVE Award als Best AI-powered
-  Legal Team gewonnen. Ihr schreibt den Artikel."
-  Fünf Stichpunkte: Headline · Key Achievements · Zitat aus dem
-  Business · Was hat sich verändert? · Warum war es erfolgreich?
-  Fußzeile: „Seid ambitioniert. Nehmt an, dass KI bis 2030 deutlich
-  gereift ist. — 15 Min schreiben, dann vorlesen."
-
-Slide 6 — Eure Beiträge (Leitfragen zur Erinnerung):
+Slide 5 — Eure Beiträge (Leitfragen zur Erinnerung):
   Sechs kompakte Punkte:
   Zielbild Ende 2027 · Wo stehen wir heute · 2–3 Stoßrichtungen ·
   Neu / anders / bewusst stoppen · Woran erkennen wir es ·
   Bedeutung fürs Team & Bedarf von den anderen
-  Fußzeile: „10 Min Beitrag + 8 Min Resonanz — Rückfragen und
+  Fußzeile: „10 Min Beitrag + 6–8 Min Resonanz — Rückfragen und
   Verstärkung, keine Bewertung."
 
-Slide 7 — Synthese (Sortierraster):
+Slide 6 — Kernarbeit: Vision 2030 „JUVE Award":
+  Aufmacher-Zeile: „2030: Wir haben den JUVE Award als Best AI-powered
+  Legal Team gewonnen. Ihr schreibt den Artikel."
+  Fünf Stichpunkte: Headline · Key Achievements · Zitat aus dem
+  Business · Was hat sich verändert? · Warum war es erfolgreich?
+  Fußzeile: „Vom Ende her schreiben — der Artikel feiert das Ergebnis.
+  Seid ambitioniert; KI ist 2030 deutlich gereift. — 12 Min schreiben ·
+  vorlesen · gemeinsam verdichten."
+
+Slide 7 — Sortierung (Sortierraster):
   2×2-Matrix als vier Karten:
   ① Weiterhin richtig & wichtig · ② Verändert → anders machen ·
   ③ Neu dazu · ④ Bewusst nicht mehr / anders

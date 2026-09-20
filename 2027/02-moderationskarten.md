@@ -1,6 +1,6 @@
 # 02 — Moderationskarten (Sprechzettel)
 
-Formulierungen als Anker, nicht zum Ablesen. Die drei heiklen Momente sind Karte 1 (Taskforce), Karte 2 (Selbstporträt-Anmoderation) und Karte 6 (Erwartungsmanagement Synthese).
+Formulierungen als Anker, nicht zum Ablesen. Die drei heiklen Momente sind Karte 1 (Taskforce), Karte 2 (Selbstporträt-Anmoderation) und Karte 4 (Modus-Bruch nach der Pause).
 
 ---
 
@@ -25,28 +25,30 @@ Formulierungen als Anker, nicht zum Ablesen. Die drei heiklen Momente sind Karte
 
 ---
 
-## Karte 3 — JUVE-Übung anmoderieren (Block 3)
+## Karte 3 — Überleitung zu den Beiträgen (Block 3)
 
-> „Jetzt springen wir ins Jahr 2030: Wir haben den JUVE Award als bestes AI-powered Legal Team gewonnen. Ihr schreibt den Artikel für die Intranet Corporate News: Headline, die wichtigsten Erfolge, ein Zitat einer Führungskraft aus dem Business, was sich verändert hat, warum es gelungen ist."
-
-> „Seid ambitioniert. Nehmt an, dass KI bis 2030 deutlich gereift ist. 15 Minuten, jede für sich — danach liest jede vor, und wir hören nur zu."
-
-**Beim Vorlesen:** Motive mitschreiben (Karten), noch nicht diskutieren: „Wir sammeln erst, sortiert wird nach der Pause."
+> „Jetzt gehört euch die Bühne. Ihr habt eure Verantwortungsbereiche vorbereitet — euer Zielbild Ende 2027 und den Blick auf heute. Zehn Minuten pro Beitrag, danach kurze Resonanz: Rückfragen und Verstärkung, keine Bewertung. Ich schreibe mit — nichts davon geht verloren, alles fließt nachher in unsere gemeinsame Arbeit ein."
 
 ---
 
-## Karte 4 — Überleitung zu den Beiträgen (Block 4)
+## Karte 4 — Modus-Bruch & Vision 2030 anmoderieren (nach der Pause, Block 4)
 
-> „Vom Zukunftsbild zur Gegenwart: Ihr habt eure Bereiche vorbereitet. Mich interessiert jetzt: Was heißt so ein Zielbild konkret für euren Verantwortungsbereich — und wo stehen wir heute? Zehn Minuten pro Beitrag, danach Resonanz: Rückfragen und Verstärkung, keine Bewertung."
+> „Vor der Pause haben wir analysiert — Zielbilder 2027, Status quo, Stoßrichtungen. Jetzt schalten wir den Analyse-Modus aus. Wir schreiben nicht die Fortsetzung von heute Morgen — wir springen ans Ende der Geschichte."
+
+> „Es ist 2030: Wir haben den JUVE Award als bestes AI-powered Legal Team gewonnen. Ihr schreibt den Artikel für die Intranet Corporate News: Headline, die wichtigsten Erfolge, ein Zitat einer Führungskraft aus dem Business, was sich verändert hat, warum es gelungen ist. Der Artikel erklärt nicht den Weg — er feiert das Ergebnis. Was steht in der Headline, wenn alles gelungen ist?"
+
+> „Seid ambitioniert. Nehmt an, dass KI bis 2030 deutlich gereift ist. Zwölf Minuten, jede für sich — eure Vorbereitung darf einfließen, aber schreibt vom Ende her. Danach liest jede vor, und wir hören nur zu."
+
+**Beim Vorlesen:** Motive mitschreiben (Karten), noch nicht diskutieren.
+
+**Danach verdichten:**
+> „Was taucht mehrfach auf? Wo erzählen wir — ohne uns abgesprochen zu haben — dieselbe Geschichte? Das ist unser Zielbild-Kern."
 
 ---
 
-## Karte 5 — Synthese einleiten (Block 5)
+## Karte 5 — Sortierung einleiten (Block 5)
 
-> „Jetzt legen wir alles übereinander: eure JUVE-Artikel von heute Morgen und eure drei Beiträge. Erste Frage: Was taucht mehrfach auf? Wo erzählen wir — ohne uns abgesprochen zu haben — dieselbe Geschichte?"
-
-**Dann Sortierung:**
-> „Und jetzt gegen unsere bestehende Strategie gehalten, vier Felder: Was bleibt richtig? Was hat sich verändert? Was kommt neu dazu? Und — die unbequemste Frage — was lassen wir bewusst?"
+> „Jetzt halten wir unser Zielbild und eure Beiträge gegen die bestehende Strategie, vier Felder: Was bleibt richtig? Was hat sich verändert? Was kommt neu dazu? Und — die unbequemste Frage — was lassen wir bewusst?"
 
 ---
 
