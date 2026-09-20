@@ -27,7 +27,7 @@ BEREICH: ______________________  (Teammitglied 1 / 2 / 3)
 
 ## Vorlage B — Schreibvorlage „JUVE Award 2030" (Block 3)
 
-Als A4-Handout, 3× drucken (plus 1× für Ulf).
+Als A4-Handout, 3× drucken (plus 1× für den Moderator).
 
 ```
 INTRANET CORPORATE NEWS — 2030
