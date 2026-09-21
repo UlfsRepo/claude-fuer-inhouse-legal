@@ -42,12 +42,12 @@ Die Übersetzung in konkrete Umsetzungsschritte erfolgt in einem **Folgetermin n
 - Die **Methodik** der Taskforce (JUVE-Award-Storytelling, Sechs-Dimensionen-Raster) wird bewusst übernommen: Sie ist nicht vertraulich, und identische Formate machen die spätere Zusammenführung beider Zielbilder einfach.
 - Sechs-Dimensionen-Raster als Cluster-Hilfe in der Synthese: **Our Clients · Our Lawyers · Our Services & Work · Our Knowledge · Our Organization · Our Culture**.
 
-## 5. Teamentwicklung — Einordnung des persönlichen Einstiegs
+## 5. Persönlicher Einstieg — Entscheidung
 
-- Das Team wird sich voraussichtlich im kommenden Jahr vergrößern. Dann ist eine echte Teamentwicklung geplant (inkl. Lebenslinien-Übung nach Kets de Vries).
-- Am 22.09. deshalb bewusst die **leichtere Übung**: das **Selbstporträt** (Kopf/Herz/Hände) — persönlich genug, um den Ton zu setzen, ohne in psychodynamische Tiefe zu gehen, die ein Strategie-Vormittag nicht halten kann.
-- Im Workshop ankündigen: Mit der Teamerweiterung kommt eine richtige Teamentwicklung — das Selbstporträt ist Auftakt, kein Ersatz.
-- Leitplanken: Moderator beginnt und eicht die Tiefe; Tiefe ist freiwillig; kein Deuten, kein Dokumentieren; Blätter nimmt jede*r selbst mit.
+- **Selbstporträt und Lebenslinie bewusst verschoben** auf die geplante Teamentwicklung (mit der voraussichtlichen Teamerweiterung): Für das Fenster von gut drei bis maximal 3,5 Stunden zu knapp.
+- Stattdessen zum Einstieg ein kurzer **Erwartungscheck**: eine Runde, ein Satz pro Person — „Was muss heute passieren, damit sich der Vormittag für dich gelohnt hat?" Der Moderator hält die Antworten auf dem Flipchart fest; im Check-out wird abgeglichen: „Haben wir geliefert?"
+- Die kommende Teamentwicklung wird im Workshop angekündigt (Check-out), damit klar ist: verschoben, nicht gestrichen.
+- Die **Kurzagenda per E-Mail** (Vortag) nennt nur drei Punkte — Ankommen & Erwartungscheck · Status quo und Ziele 2027 · Zielbild 2030 — und verrät die JUVE-Methode bewusst nicht.
 
 ## 6. Quelldokumente
 

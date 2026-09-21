@@ -1,10 +1,10 @@
 # 02 — Moderationskarten (Sprechzettel)
 
-Formulierungen als Anker, nicht zum Ablesen. Die drei heiklen Momente sind Karte 1 (Taskforce), Karte 2 (Selbstporträt-Anmoderation) und Karte 4 (Modus-Bruch nach der Pause).
+Formulierungen als Anker, nicht zum Ablesen. Die drei heiklen Momente sind Karte 1 (Taskforce + Erwartungscheck), Karte 3 (Modus-Bruch nach der Pause) und Karte 5 (Erwartungsmanagement Botschaft).
 
 ---
 
-## Karte 1 — Einstieg & Taskforce-Transparenz (Block 1)
+## Karte 1 — Einstieg, Taskforce-Transparenz & Erwartungscheck (Block 1)
 
 > „Unsere Strategie 2024–2026 läuft aus. Am 29.09. spricht der Führungskreis über die Fortschreibung — und mir ist wichtig, dass unsere Sicht als Team dort einfließt. Genau dafür ist dieser Vormittag."
 
@@ -12,26 +12,18 @@ Formulierungen als Anker, nicht zum Ablesen. Die drei heiklen Momente sind Karte
 
 > „Was heute entsteht: ein gemeinsamer Zielbild-Kern und drei bis fünf strategische Themen als Hypothesen. Was heute **nicht** entsteht: eine fertige Strategie oder Projektlisten. Die Übersetzung in Maßnahmen machen wir zusammen nach dem 29.09. — das verspreche ich euch heute."
 
----
-
-## Karte 2 — Selbstporträt anmoderieren (Block 2)
-
-> „Bevor wir in die Inhalte gehen, möchte ich, dass wir uns kurz anders begegnen als sonst zwischen Akten und Terminen. Jede von uns zeichnet sich selbst — Kopf: was mich gerade beschäftigt. Herz: was mir wichtig ist. Hände: woran ich gerade baue. Gerahmt auf unsere Arbeit und das, was kommt — wer Privates einbringen mag, darf, niemand muss."
-
-> „Es gibt kein richtig oder falsch und kein Deuten. Jede erzählt ihr eigenes Bild, wir hören zu, höchstens eine Verständnisfrage. Die Blätter nimmt jede selbst wieder mit — nichts davon wird fotografiert oder dokumentiert. Ich fange an."
-
-**Ankündigung danach:**
-> „Unser Team wird voraussichtlich wachsen. Dann investieren wir richtig in Teamentwicklung — das heute war ein Auftakt, kein Ersatz."
+**Erwartungscheck:**
+> „Bevor wir starten, eine Runde, ein Satz: Was muss heute passieren, damit sich dieser Vormittag für dich gelohnt hat? Ich schreibe mit — und am Ende schauen wir gemeinsam drauf, ob wir geliefert haben."
 
 ---
 
-## Karte 3 — Überleitung zu den Beiträgen (Block 3)
+## Karte 2 — Überleitung zu den Beiträgen (Block 2)
 
 > „Jetzt gehört euch die Bühne. Ihr habt eure Verantwortungsbereiche vorbereitet — euer Zielbild Ende 2027 und den Blick auf heute. Zehn Minuten pro Beitrag, danach kurze Resonanz: Rückfragen und Verstärkung, keine Bewertung. Ich schreibe mit — nichts davon geht verloren, alles fließt nachher in unsere gemeinsame Arbeit ein."
 
 ---
 
-## Karte 4 — Modus-Bruch & Vision 2030 anmoderieren (nach der Pause, Block 4)
+## Karte 3 — Modus-Bruch & Vision 2030 anmoderieren (nach der Pause, Block 3)
 
 > „Vor der Pause haben wir analysiert — Zielbilder 2027, Status quo, Stoßrichtungen. Jetzt schalten wir den Analyse-Modus aus. Wir schreiben nicht die Fortsetzung von heute Morgen — wir springen ans Ende der Geschichte."
 
@@ -46,13 +38,13 @@ Formulierungen als Anker, nicht zum Ablesen. Die drei heiklen Momente sind Karte
 
 ---
 
-## Karte 5 — Sortierung einleiten (Block 5)
+## Karte 4 — Sortierung einleiten (Block 4)
 
 > „Jetzt halten wir unser Zielbild und eure Beiträge gegen die bestehende Strategie, vier Felder: Was bleibt richtig? Was hat sich verändert? Was kommt neu dazu? Und — die unbequemste Frage — was lassen wir bewusst?"
 
 ---
 
-## Karte 6 — Erwartungsmanagement & Botschaft (Block 6)
+## Karte 5 — Erwartungsmanagement & Botschaft (Block 5)
 
 > „Das hier sind Hypothesen, keine Beschlüsse. Ich nehme sie am 29.09. mit als das, was sie sind: die Sicht dieses Teams. Was davon in die Strategie eingeht, entscheidet sich dort — aber es geht dort hin, im Wortlaut, den wir jetzt gemeinsam festlegen."
 
@@ -62,8 +54,10 @@ Formulierungen als Anker, nicht zum Ablesen. Die drei heiklen Momente sind Karte
 
 ---
 
-## Karte 7 — Check-out (Block 7)
+## Karte 6 — Check-out mit Erwartungsabgleich (Block 6)
+
+> „Schauen wir auf euer Flipchart von heute Morgen: Was musste passieren, damit sich der Vormittag lohnt — haben wir geliefert?"
 
 > „Letzte Runde, ein Satz: Mit welchem Gedanken gehst du raus?"
 
-> „Danke für diesen Vormittag. So geht es weiter: 29.09. Führungskreis — ich berichte euch danach. Dann Folgetermin: aus Themen werden Maßnahmen. Und später, mit dem größeren Team, die Teamentwicklung."
+> „Danke für diesen Vormittag. So geht es weiter: 29.09. Führungskreis — ich berichte euch danach. Dann Folgetermin: aus Themen werden Maßnahmen. Und später, mit dem größeren Team, eine richtige Teamentwicklung — der persönliche Teil ist verschoben, nicht gestrichen."

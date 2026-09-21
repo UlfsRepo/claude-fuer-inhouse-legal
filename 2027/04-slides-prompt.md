@@ -41,17 +41,16 @@ Slide 2 — Warum heute:
 
 Slide 3 — Agenda des Vormittags:
   Schlanke Zeitleiste, sechs Einträge:
-  9:00 Rahmen · 9:10 Selbstporträt · 9:35 Eure Beiträge (Zielbild 2027) ·
-  10:45 Vision 2030 · 11:25 Sortierung · 12:00 Botschaft für den 29.09.
-  (Pause 10:30–10:45 dezent markieren)
+  9:00 Ankommen & Erwartungscheck · 9:15 Status quo & Ziele 2027 ·
+  10:25 Zielbild 2030 · 11:05 Sortierung · 11:40 Botschaft für den
+  29.09. · 12:00 Check-out
+  (Pause 10:10–10:25 dezent markieren)
 
-Slide 4 — Selbstporträt (Anleitung):
-  Drei Zeilen mit je einem Stichwort-Icon-Platzhalter:
-  KOPF — was mich gerade beschäftigt
-  HERZ — was mir wichtig ist
-  HÄNDE — woran ich gerade baue
-  Darunter klein: „6 Min zeichnen · je 4 Min erzählen · nur Zuhören,
-  max. eine Verständnisfrage · Blätter bleiben bei euch"
+Slide 4 — Erwartungscheck:
+  Eine einzige große Frage, mittig:
+  „Was muss heute passieren, damit sich dieser Vormittag
+  für dich gelohnt hat?"
+  Darunter klein: „Eine Runde, ein Satz — Abgleich im Check-out."
 
 Slide 5 — Eure Beiträge (Leitfragen zur Erinnerung):
   Sechs kompakte Punkte:
@@ -96,4 +95,5 @@ erscheinen sollen, hier auflisten.]
 
 - ChatGPT Enterprise zuerst die Slides als **Outline bestätigen** lassen, dann erst PPTX erzeugen — spart Korrekturschleifen.
 - Ergebnis gegen die Qualitätscheckliste prüfen: kein reines Schwarz, Rot nur als Akzent, max. 5–6 Elemente pro Slide, Tagline in Gold.
-- Die Slides zu Block 2–5 sind bewusst karg: Das Arbeitsmaterial sind die Flipcharts und Handouts aus `03-arbeitsblaetter.md`, nicht die Leinwand.
+- Slide 6 (Vision 2030) beim Präsentieren erst nach der Pause zeigen — die Methode wurde in der Kurzagenda bewusst nicht angekündigt.
+- Die Slides zu Block 2–4 sind bewusst karg: Das Arbeitsmaterial sind die Flipcharts und Handouts aus `03-arbeitsblaetter.md`, nicht die Leinwand.

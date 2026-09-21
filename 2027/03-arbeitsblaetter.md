@@ -4,7 +4,7 @@ Vier Vorlagen: A und C/D als Flipcharts vorbereiten, B als Handout drucken (3×)
 
 ---
 
-## Vorlage A — Capture-Raster für die Beiträge (Block 4)
+## Vorlage A — Capture-Raster für die Beiträge (Block 2)
 
 Je Beitrag ein Flipchart (3× vorbereiten). Der Moderator füllt während des Beitrags aus.
 
@@ -60,7 +60,7 @@ _____________________________________________________________
 
 ---
 
-## Vorlage C — Cluster-Wand: Sortierung gegen die Strategie 2024–2026 (Block 5)
+## Vorlage C — Cluster-Wand: Sortierung gegen die Strategie 2024–2026 (Block 4)
 
 Ein großes Flipchart (oder Wand mit 4 Feldern), Befüllung mit Sticky Notes.
 
@@ -81,7 +81,7 @@ Optionales Cluster-Raster, falls die Motive aus Block 3 Struktur brauchen (Sechs
 
 ---
 
-## Vorlage D — Ergebnis-Canvas für den 29.09. (Block 6)
+## Vorlage D — Ergebnis-Canvas für den 29.09. (Block 5)
 
 Ein Flipchart; wird nach dem Workshop 1:1 ins Ergebnisdokument übertragen.
 
@@ -117,6 +117,6 @@ VALIDIERUNG VOR DEM 29.09. DURCH: ___________________________
 
 ---
 
-## Selbstporträt (Block 2) — keine Vorlage
+## Erwartungscheck (Block 1) — Flipchart „Erwartungen"
 
-Bewusst **kein** vorbereitetes Blatt: Blanko-A4 und Stifte genügen. Die Anleitung (Kopf / Herz / Hände) steht auf Slide 4 und wird mündlich gegeben. Die Blätter verbleiben bei den Teilnehmerinnen.
+Ein leeres Flipchart mit der Überschrift: **„Was muss heute passieren, damit sich der Vormittag gelohnt hat?"** Der Moderator notiert je Person einen Satz. Das Chart bleibt den ganzen Vormittag sichtbar hängen und wird im Check-out (Block 6) abgeglichen: „Haben wir geliefert?"
