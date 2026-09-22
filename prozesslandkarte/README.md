@@ -31,7 +31,8 @@ prozesslandkarte/
 │   └── prozess-interview/         ← Claude-Skill: führt das Doku-Interview (Phase 2)
 ├── chatgpt/
 │   ├── einrichtung-custom-gpt.md  ← Interview-Skill als Custom GPT (ChatGPT Enterprise)
-│   └── gpt-instructions-prozess-interview.md ← Instructions zum Einfügen
+│   ├── gpt-instructions-prozess-interview.md ← Instructions zum Einfügen
+│   └── prompt-ki-prozessmap.md    ← Phase 4: Map-Erstellung per Prompt (kein eigener GPT nötig)
 ├── tests/
 │   ├── testplan.md                ← 6 Testfälle vor dem Go-Live
 │   ├── pruefbogen.md              ← Bewertungsbogen je Testlauf

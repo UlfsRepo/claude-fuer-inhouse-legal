@@ -89,6 +89,24 @@ Beobachten, nicht helfen (außer bei echter Blockade — jede Hilfe notieren!).
 - [ ] Die Person kommt vom GPT-Finden bis zur gespeicherten `.md`-Datei ohne fremde Hilfe
 - [ ] Jede benötigte Hilfe ist notiert und führt zu einer Verbesserung des Leitfadens
 
+## Testfall 7 — End-to-End: IST-Doku → KI-Prozessmap (Phase 4)
+**Input:** Ein in Testfall 1 erzeugtes IST-Prozessdokument (oder ein echtes,
+freigegebenes). **Auftrag an die KI:** Führe die Analyse nach
+`anleitung/ki-potenzial-analyse.md` durch und erstelle daraus die
+KI-Prozessmap nach `vorlagen/ki-prozessmap-template.md` (Stilreferenz:
+`beispiele/unternehmenskommunikation/uk-03-map-krisenkommunikation.md`).
+Hinweis: Ersetzt nicht den Phase-4-Workshop — getestet wird, ob die Mechanik
+eine vollständige, GIS-formatige Map liefert; die inhaltliche Validierung
+macht das Team.
+
+**Bestanden, wenn:**
+- [ ] Alle Template-Abschnitte vorhanden (Steckbrief, Gesamt-Zielbild, alle Prozessschritte, Verteilung, Reifegrad, Roadmap, Risiken, Prinzipien)
+- [ ] Neu-Denken-Frage substanziell beantwortet (mindestens eine Idee, die den Prozess ändert oder Schritte streicht — nicht nur "schneller machen")
+- [ ] JEDER Schritt der IST-Doku hat einen Map-Block mit Ziel-Automatisierungsgrad + den vier Listen; "Menschliche Verantwortung" ist nie leer
+- [ ] Keine Prozessfakten erfunden: Alles Prozessuale ist auf die IST-Doku rückführbar; TODOs der IST-Doku werden nicht stillschweigend "aufgelöst"
+- [ ] Schmerzpunkte der IST-Doku (Abschnitt 10) tauchen in KI-Ideen oder Roadmap wieder auf
+- [ ] Quick Wins (0–3 Monate) sind überwiegend organisatorisch, nicht "KI-Agent ab Tag 1"; Zahlen in sich konsistent (Verteilung ≈ 100 %)
+
 ---
 
 ## Befunde festhalten
