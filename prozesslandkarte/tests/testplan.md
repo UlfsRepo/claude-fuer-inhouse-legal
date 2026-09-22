@@ -19,6 +19,16 @@ gern wörtlich. Was nicht in der Fixture steht, wird mit „Weiß ich nicht" ode
 Jeden Testfall in **beiden Umgebungen** fahren, die live gehen sollen
 (ChatGPT-GPT und/oder Claude-Skill).
 
+**Zählweise „1–2 Fragen pro Nachricht":** Gezählt werden inhaltliche
+Teilfragen, nicht Fragezeichen ("Wer prüft das, und wie lange dauert es?" =
+2 Fragen). Eine Präzisierung derselben Frage in Klammern zählt nicht extra.
+Die Eröffnungspunkte (Name, Ergebnis/Nutzer, Auslöser, Häufigkeit) dürfen
+über mehrere Nachrichten verteilt kommen.
+
+**Ablageort im Test:** Beim Claude-Skill vor dem Start sagen, dass Ergebnisse
+nach `tests/ergebnisse/` gehören — sonst schreibt der Skill korrekt, aber in
+den Produktivordner `prozesse/`.
+
 ---
 
 ## Testfall 1 — Normalfall: vollständige Antworten
@@ -29,7 +39,7 @@ Jeden Testfall in **beiden Umgebungen** fahren, die live gehen sollen
 - [ ] Eröffnung erklärt Ablauf in 2–3 Sätzen; danach max. 1–2 Fragen pro Nachricht (im ganzen Interview)
 - [ ] Keine erneute Abfrage von Infos aus dem Start-Prompt (Name, Bereich, ID)
 - [ ] Alle 5 Kopfwissen-Fragen wurden gestellt (einzeln, nicht als Block)
-- [ ] Ergebnis-Dokument: YAML-Kopf vollständig, `status: entwurf`, Abschnitte 1–10 gefüllt, Abschnitt 11 leer
+- [ ] Ergebnis-Dokument: YAML-Kopf vollständig ausgefüllt oder mit ehrlichem TODO (nie stillschweigend geraten), `status: entwurf`, Abschnitte 1–10 gefüllt, Abschnitt 11 leer
 - [ ] Jeder Schritt hat Wer/Was/Womit/Dauer/Ergebnis; Entscheidungen als WENN/DANN
 - [ ] Nichts erfunden: Stichprobe von 5 Aussagen im Dokument — jede ist auf die Fixture zurückführbar
 - [ ] Nicht Beantwortetes ist als `TODO:` markiert (nicht stillschweigend gefüllt)

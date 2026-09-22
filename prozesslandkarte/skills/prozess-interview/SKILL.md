@@ -40,28 +40,43 @@ Vorlage in `references/prozess-template.md`.
 - **Hake bei Vagheit nach** — besonders bei Entscheidungen. "Das entscheide ich
   nach Gefühl" ist nie die Endantwort: Frage nach dem letzten konkreten Fall
   ("Wann hast du zuletzt A statt B gewählt — und warum?") und destilliere die
-  Regel daraus. Regeln gehören als WENN/DANN ins Dokument.
+  Regel daraus. Regeln gehören als WENN/DANN ins Dokument. Das gilt auch
+  jenseits von Entscheidungen: "Wenn sich keiner beschwert, war's gut" →
+  konkrete Kriterien erfragen; "läuft eigentlich immer gleich" → nach der
+  letzten Ausnahme fragen.
 - **Realität vor Ideal.** Workarounds, Zurufe und Abkürzungen sind erwünscht —
   dokumentiert wird, wie es wirklich läuft, nicht das Organigramm. Sage das zu
   Beginn einmal explizit; es senkt die Hemmschwelle.
 - **Vertraulichkeit schützen.** Keine Kundendaten, Personalia oder Konditionen
   aufnehmen. Nennt die Person Einzelfälle, nutze sie zum Verstehen, aber
   verallgemeinere im Dokument (Rollen statt Namen, "ein Großkunde" statt Name).
-- **Zumutbare Länge.** Ziel sind 20–40 Minuten. Bei einem sehr großen Prozess
-  schlage vor, ihn in Teilprozesse zu schneiden, statt endlos zu fragen.
+  Interne Zahlen und Schwellenwerte ersetzt du durch die Regel mit Platzhalter,
+  z. B. "oberhalb der internen Freigabegrenze (konkreter Wert: siehe interne
+  Richtlinie — bewusst nicht in diesem Dokument)".
+- **Zumutbare Länge.** Ziel sind 20–40 Minuten. Erkennst du früh einen
+  Riesenprozess (mehrere verschiedene Auslöser und Ergebnisse, die Person
+  springt zwischen Teilthemen, es zeichnen sich weit mehr als 12 Schritte ab),
+  schlage aktiv vor, entlang der Auslöser-Ergebnis-Grenzen in Teilprozesse zu
+  schneiden — statt endlos zu fragen. Beginne mit dem Teilprozess, der am
+  häufigsten vorkommt oder am meisten schmerzt; die übrigen hältst du als
+  Liste fest (IDs vorläufig, später mit der Bereichs-Landkarte abgleichen).
 
 ## Ablauf des Interviews
 
 **Eröffnung:** Erkläre in 2–3 Sätzen, was passiert (Interview, ~30 Min, Ergebnis
 ist ein Dokument, das die Person danach prüft und besitzt — es wird nichts ohne
-ihre Durchsicht "offiziell"). Frage dann nach: Prozessname, was am Ende
-herauskommt und wer es nutzt, Auslöser, Häufigkeit.
+ihre Durchsicht "offiziell"). Erfrage dann nacheinander: Prozessname, was am
+Ende herauskommt und wer es nutzt, Auslöser, Häufigkeit — **verteilt auf
+mehrere Nachrichten**; auch hier gilt die 1–2-Fragen-Grenze, und schon
+Genanntes wird nicht erneut abgefragt.
 
 **Hauptteil — den Film abspielen:** Lass die Person den Prozess chronologisch
 erzählen ("Der Auslöser ist da — was tust du als Erstes?"). Fasse jeden Schritt
 kurz zusammen und erfrage gezielt, was fehlt: Wer macht es, womit (Tool/System/
-Vorlage), wie lange, was liegt danach vor. Notiere Verzweigungen, sobald sie
-auftauchen ("Und wenn X nicht zutrifft?").
+Vorlage), wie lange, was liegt danach vor. Verlasse einen Schritt erst, wenn
+diese fünf Angaben beisammen sind — oder die Person sie nicht kennt (dann
+TODO); was du hier nicht erfragst, fehlt später im Dokument. Notiere
+Verzweigungen, sobald sie auftauchen ("Und wenn X nicht zutrifft?").
 
 **Vertiefung:** Danach gezielt: Input/Voraussetzungen (was fehlt am häufigsten?),
 Qualitätskriterien ("Woran erkennst du, dass das Ergebnis gut ist — was würde
@@ -108,5 +123,12 @@ Wartezeiten? Nur sammeln — KI-Ideen werden hier NICHT bewertet, das ist Phase 
   WENN/DANN da; Abschnitt 9 hat mindestens 3 substanzielle Einträge.
 - Rollen statt Namen im Ablauf, keine vertraulichen Daten.
 
-Fehlt etwas davon, stelle die fehlenden Fragen, bevor du speicherst — außer die
-Person will abbrechen: Dann speichere den Stand ehrlich mit TODOs.
+Fehlt etwas davon, stelle die fehlenden Fragen, bevor du speicherst.
+
+## Abbruch durch die Person
+
+Will die Person unterbrechen oder abbrechen, erstelle das Dokument **sofort**
+mit dem jetzigen Stand — keine einzige weitere Frage, kein "nur noch kurz".
+Alle nicht besprochenen Abschnitte werden als `TODO:` markiert (nicht aus
+Plausibilität gefüllt), die Zusammenfassung benennt ehrlich, was fehlt, und du
+bietest an, später genau dort weiterzumachen.

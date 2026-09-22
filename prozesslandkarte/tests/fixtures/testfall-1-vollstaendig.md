@@ -50,4 +50,6 @@ Nervig ist: das Nachhaken bei Freigaben, das Verteiler-Pflegen (der ist ewig
 nicht aktualisiert, kommen ständig Mails zurück) und dass ich Clippings manuell
 suche. Mein Bereich ist Unternehmenskommunikation, Kürzel UK, das wäre wohl
 UK-01. Vertretung macht Tom, der Pressesprecher. Systeme: Outlook, Word, CMS
-(Typo3), Medienbeobachtung haben wir nicht richtig.
+(Typo3), Medienbeobachtung haben wir nicht richtig. Wie wichtig der Prozess
+ist? Mittel, würde ich sagen — wenn eine PM zu spät rausgeht, ist das
+ärgerlich, aber kein Beinbruch.
