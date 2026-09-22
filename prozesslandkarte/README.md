@@ -23,10 +23,12 @@ prozesslandkarte/
 │   ├── prozess-template.md        ← IST-Dokumentation EINES Prozesses (Phase 2–3)
 │   ├── ki-prozessmap-template.md  ← KI-Prozessmap: Zielbild je Prozess (Phase 4)
 │   ├── landkarte-template.md      ← Prozessübersicht eines Bereichs (Phase 1)
-│   └── prozess-schema.json        ← Maschinenlesbares Schema (Validierung, KI)
+│   ├── prozess-schema.json        ← Maschinenlesbares Schema (Validierung, KI)
+│   └── prozessmap-visual-template.html ← Grafik-Vorlage: Map als Ein-Seiten-Poster
 ├── anleitung/
 │   ├── mitarbeiter-leitfaden.md   ← So dokumentierst du deine Prozesse
-│   └── ki-potenzial-analyse.md    ← So entsteht aus der IST-Doku die KI-Prozessmap
+│   ├── ki-potenzial-analyse.md    ← So entsteht aus der IST-Doku die KI-Prozessmap
+│   └── map-als-grafik-rendern.md  ← So wird aus der Map die grafische Darstellung
 ├── skills/
 │   └── prozess-interview/         ← Claude-Skill: führt das Doku-Interview (Phase 2)
 ├── chatgpt/
