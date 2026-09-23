@@ -44,8 +44,13 @@ Vorlage (`prozessmap-visual-template.html`). Prompt zum Kopieren:
 
 Danach: Codeblock kopieren → als `<prozessname>-map.html` speichern
 (Texteditor, Dateityp „Alle Dateien") → Doppelklick öffnet die Grafik im
-Browser. Zum Teilen die Datei ablegen (z. B. SharePoint) oder als PDF drucken
-(Browser: Drucken → als PDF speichern, Querformat empfohlen).
+Browser. Zum Teilen die Datei ablegen (z. B. SharePoint) oder als PDF
+exportieren: Browser → Drucken → „Als PDF speichern" — die Vorlage bringt
+Druckstile mit (A4 Querformat, saubere Seitenumbrüche, helle Druckfarben),
+es ist nichts einzustellen. Hinweis: Bei sehr langen HTML-Ausgaben bricht
+ChatGPT gelegentlich mitten im Codeblock ab — dann „bitte fortsetzen"
+schreiben und die Teile zusammenfügen; die Ausgabe als Codeblock anfordern,
+nicht im Canvas.
 
 ## Qualitätscheck vor dem Teilen (2 Minuten)
 
