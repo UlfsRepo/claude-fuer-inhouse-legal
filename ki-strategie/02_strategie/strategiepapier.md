@@ -1,6 +1,6 @@
 # KI-Strategie der Rechtsabteilung – Entwurf v0.2
 
-Stand: 25.09.2026 · Status: **Entwurf mit Vorentscheidungen**, Bestätigung durch das Team im Workshop ausstehend (Entscheidungslog Nr. 6–10) · Evidenzbasis: [Synthese Recherche Runde 1](../01_recherche/synthese-recherche-runde-1.md) · Unternehmensspezifika als Platzhalter
+Stand: 25.09.2026 · Status: **Entwurf mit Vorentscheidungen**, Freigabe durch den Führungskreis Legal ausstehend (Entscheidungslog Nr. 6–10) · Evidenzbasis: [Synthese Recherche Runde 1](../01_recherche/synthese-recherche-runde-1.md) · Unternehmensspezifika als Platzhalter
 
 ---
 
@@ -111,13 +111,13 @@ Kennzahlen mit ● werden an die Geschäftsleitung berichtet (Entscheidungslog N
 | ● Anteil Anfragen, die per Self-Service gelöst werden (ab Stufe 2) | GPT-Nutzung / ITSM | – |
 | ● Stakeholder-Zufriedenheit (Kurzbefragung, halbjährlich) | Umfrage | Erstbefragung vor dem Start |
 | ● Kapazitätsnachweis: frei gewordene Stunden und ihr Einsatz | Teamschätzung, quartalsweise | – |
-| Reifegrad in sechs ACC-Bereichen | Workshop, jährlich | Standortbestimmung |
+| Reifegrad in sechs ACC-Bereichen | Team-Einordnung, jährlich | Standortbestimmung |
 
 **Realistische Erwartung:** Etwa 10 % Zeitgewinn pro Kopf durch KI-Unterstützung (Wolters Kluwer, Selbsteinschätzung). Der größere Hebel ist Nachfrage, die dank Self-Service und Mustern gar nicht erst bei Legal ankommt. Den Business Case entsprechend konservativ rechnen.
 
 ## 6. Reifegrad: Ist und Ziel (ACC Legal Ops Maturity Model 2.0)
 
-Die Ist-Stufen ermittelt das Team in einem zweistündigen Workshop. Die Zielstufen sind Vorschläge.
+Die Ist-Stufen werden in Phase 0 ermittelt: Jede Person im Team ordnet die Abteilung zuerst allein ein, dann werden die Einschätzungen in einer Teamsitzung abgeglichen (ca. 1 Stunde). Die Zielstufen sind Vorschläge.
 
 | Bereich | Ist | Ziel [ZIELJAHR] |
 |---|---|---|
@@ -132,7 +132,7 @@ Die Ist-Stufen ermittelt das Team in einem zweistündigen Workshop. Die Zielstuf
 
 | Phase | Zeitraum | Schwerpunkte | Meilensteine |
 |---|---|---|---|
-| 0 – Fundament | Monate 0–3 | Standortbestimmung (ACC-Workshop, KI-Audit: wo wird schon genutzt, wo improvisiert); Nutzungsrichtlinie; Stakeholder-Erstbefragung; Intake-Taxonomie final | Richtlinie in Kraft, Ausgangswerte erhoben, Strategie im Team beschlossen |
+| 0 – Fundament | Monate 0–3 | Standortbestimmung (ACC-Einordnung im Team, KI-Audit: wo wird schon genutzt, wo improvisiert); Nutzungsrichtlinie; Stakeholder-Erstbefragung; Intake-Taxonomie final | Richtlinie in Kraft, Ausgangswerte erhoben, Strategie im Team beschlossen |
 | 1 – Scaled Enablement | Monate 3–12 | Intake-Go-live; Wissensbasis ab [STICHTAG]; erste 3–5 Prompts und 1–2 Custom GPTs für Standardfälle; Lernroutine im Team | Alle Anfragen über Intake; verbindliche Dokumente für die Top-Kategorien; erster KPI-Bericht an die Geschäftsleitung |
 | 2 – Empowering Peer | Monate 9–24 | Pilot-Fachbereich nach ca. 6 Monaten Intake-Daten wählen (Entscheidungslog Nr. 10); Self-Service-GPTs für 1–2 Fachbereiche; Workflow-Ebene prüfen (derzeit geparkt) | Messbarer Self-Service-Anteil; Kapazitätsnachweis |
 | Laufend | – | Quartalsweiser Review: KPIs, Use-Case-Portfolio, Veränderungslast | Jährliche Neubewertung des Reifegrads |
@@ -161,14 +161,14 @@ Phase 1 und 2 überlappen bewusst. Bei voller Auslastung haben Intake und Wissen
 
 ## 10. Vorentscheidungen und offene Punkte
 
-Vorentschieden (Bestätigung im Team-Workshop, siehe [Entscheidungslog](entscheidungslog.md) Nr. 6–10):
+Vorentschieden (Freigabe durch den Führungskreis Legal, siehe [Entscheidungslog](entscheidungslog.md) Nr. 6–10):
 1. Zielbild zweistufig: *Scaled Enablement*, dann *Empowering Peer*; „Reimagine“ nicht vor [ZIELJAHR].
 2. Teilrollen mit zusammen ca. 10–15 % Teamkapazität, keine neue Stelle.
 3. „KI zuerst“ wird nach ca. 3 Monaten Einführung für Standardfälle verbindlich.
 4. Vier KPI-Gruppen an die Geschäftsleitung, einschließlich Kapazitätsnachweis.
 5. Pilot-Fachbereich für Self-Service wird nach ca. 6 Monaten anhand der Intake-Daten gewählt.
 
-Offen für den Workshop:
+Offen nach der Freigabe (Phase 0):
 - Ist-Stufen in den sechs ACC-Bereichen (Abschnitt 6)
 - Konkrete Verteilung der Teilrollen im Team
 - [ZIELJAHR] und Startzeitpunkt der Roadmap

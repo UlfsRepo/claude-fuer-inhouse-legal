@@ -16,9 +16,9 @@ Die Entscheidungen 1–5 sind durch die Recherche gedeckt ([Synthese Runde 1](..
 - **Nr. 1 Intake zuerst:** Im ACC Legal Ops Maturity Model 2.0 sind Intake und Triage Merkmale der mittleren Stufe, also der nächste Reifeschritt. TR empfiehlt als ersten Use Case den Workflow mit dem höchsten Volumen und dem geringsten Urteilsanteil.
 - **Nr. 2–5 Wissensbasis:** Die mittlere ACC-Stufe verlangt zentrales Repository, Kuratierung und eine feste Zuständigkeit. Die größte Lücke zwischen Nutzen und Nutzung liegt bei der Dokumentenerstellung (Bucerius 2026: 83,8 % halten KI dafür für hilfreich, 51,5 % nutzen sie). Verbindliche Muster sind die Voraussetzung dafür.
 
-## Vorentscheidungen zur Strategie (Bestätigung durch das Team im Workshop ausstehend)
+## Vorentscheidungen zur Strategie (Freigabe durch den Führungskreis Legal ausstehend)
 
-Getroffen am 25.09.2026 als Vorschlag für die Abstimmung im Team, aus dem [Strategiepapier](strategiepapier.md), Abschnitt 10.
+Getroffen am 25.09.2026 als Beschlussvorschlag für den Führungskreis Legal, aus dem [Strategiepapier](strategiepapier.md), Abschnitt 10.
 
 | Nr. | Entscheidung | Begründung | Datum | Status |
 |---|---|---|---|---|
