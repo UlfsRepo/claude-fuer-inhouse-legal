@@ -1,6 +1,6 @@
-# KI-Strategie der Rechtsabteilung – Entwurf v0.1
+# KI-Strategie der Rechtsabteilung – Entwurf v0.2
 
-Stand: 25.09.2026 · Status: **Entwurf zur Diskussion im Team**, noch nicht beschlossen · Evidenzbasis: [Synthese Recherche Runde 1](../01_recherche/synthese-recherche-runde-1.md) · Unternehmensspezifika als Platzhalter
+Stand: 25.09.2026 · Status: **Entwurf mit Vorentscheidungen**, Bestätigung durch das Team im Workshop ausstehend (Entscheidungslog Nr. 6–10) · Evidenzbasis: [Synthese Recherche Runde 1](../01_recherche/synthese-recherche-runde-1.md) · Unternehmensspezifika als Platzhalter
 
 ---
 
@@ -83,7 +83,7 @@ Die Rechtsabteilung entwickelt sich **vom Schutzschild zum Navigator** (Leitbild
   - **Leitung als Vorbild:** Die Leitung nutzt KI sichtbar selbst („leader-led learning“, Bucerius).
   - **Lernen am echten Fall:** 15 Minuten pro Woche im Teammeeting für den „Fall der Woche“ mit KI. Review KI-gestützter Arbeit im Vier-Augen-Prinzip (Knowledge).
   - **Mitgestaltung:** Das Team wählt die Use Cases mit aus und pflegt die Muster (Ownership).
-  - **Erwartungen stufenweise:** Erst ermutigen und Zugang schaffen, nach der Einführungsphase gelten verbindliche Nutzungserwartungen für Standardfälle (Expectations).
+  - **Erwartungen stufenweise:** Erst ca. 3 Monate ermutigen und Zugang schaffen, danach gilt „KI zuerst“ für Standardfälle verbindlich; Abweichungen werden kurz begründet (Expectations; Entscheidungslog Nr. 8).
   - **Persönliche Ziele:** Je Person ein KI-bezogenes Ziel in der Zielvereinbarung (Accountability).
 - **Evidenz:**
   - Kompetenz ist der Engpass, nicht Akzeptanz: 91,7 % akzeptieren KI, 41,7 % fühlen sich nicht vorbereitet (Bucerius).
@@ -98,17 +98,19 @@ Die Rechtsabteilung entwickelt sich **vom Schutzschild zum Navigator** (Leitbild
   - Nur 17 % der C-Suite sehen Legal als wichtigen Wertbeitrag.
   - Wer nur Effizienz meldet, riskiert Kürzungen (TR).
 
-## 5. KPI-Set (Vorschlag)
+## 5. KPI-Set
+
+Kennzahlen mit ● werden an die Geschäftsleitung berichtet (Entscheidungslog Nr. 9), die übrigen dienen der internen Steuerung.
 
 | KPI | Quelle | Ausgangswert |
 |---|---|---|
-| Anfragevolumen je Kategorie und Monat | ITSM | ab Go-live Intake |
-| Durchlaufzeit je Kategorie (Median) | ITSM | ab Go-live Intake |
+| ● Anfragevolumen je Kategorie und Monat | ITSM | ab Go-live Intake |
+| ● Durchlaufzeit je Kategorie (Median) | ITSM | ab Go-live Intake |
 | Anteil Standardfälle, die mit verbindlichem Muster und LLM bearbeitet werden | ITSM-Kennzeichnung | Schätzung Team |
-| Abdeckung der Wissensbasis: Kategorien mit verbindlichem Dokument | SharePoint | 0 zum [STICHTAG] |
-| Anteil Anfragen, die per Self-Service gelöst werden (ab Stufe 2) | GPT-Nutzung / ITSM | – |
-| Stakeholder-Zufriedenheit (Kurzbefragung, halbjährlich) | Umfrage | Erstbefragung vor dem Start |
-| Kapazitätsnachweis: frei gewordene Stunden und ihr Einsatz | Teamschätzung, quartalsweise | – |
+| ● Abdeckung der Wissensbasis: Kategorien mit verbindlichem Dokument | SharePoint | 0 zum [STICHTAG] |
+| ● Anteil Anfragen, die per Self-Service gelöst werden (ab Stufe 2) | GPT-Nutzung / ITSM | – |
+| ● Stakeholder-Zufriedenheit (Kurzbefragung, halbjährlich) | Umfrage | Erstbefragung vor dem Start |
+| ● Kapazitätsnachweis: frei gewordene Stunden und ihr Einsatz | Teamschätzung, quartalsweise | – |
 | Reifegrad in sechs ACC-Bereichen | Workshop, jährlich | Standortbestimmung |
 
 **Realistische Erwartung:** Etwa 10 % Zeitgewinn pro Kopf durch KI-Unterstützung (Wolters Kluwer, Selbsteinschätzung). Der größere Hebel ist Nachfrage, die dank Self-Service und Mustern gar nicht erst bei Legal ankommt. Den Business Case entsprechend konservativ rechnen.
@@ -132,7 +134,7 @@ Die Ist-Stufen ermittelt das Team in einem zweistündigen Workshop. Die Zielstuf
 |---|---|---|---|
 | 0 – Fundament | Monate 0–3 | Standortbestimmung (ACC-Workshop, KI-Audit: wo wird schon genutzt, wo improvisiert); Nutzungsrichtlinie; Stakeholder-Erstbefragung; Intake-Taxonomie final | Richtlinie in Kraft, Ausgangswerte erhoben, Strategie im Team beschlossen |
 | 1 – Scaled Enablement | Monate 3–12 | Intake-Go-live; Wissensbasis ab [STICHTAG]; erste 3–5 Prompts und 1–2 Custom GPTs für Standardfälle; Lernroutine im Team | Alle Anfragen über Intake; verbindliche Dokumente für die Top-Kategorien; erster KPI-Bericht an die Geschäftsleitung |
-| 2 – Empowering Peer | Monate 9–24 | Self-Service-GPTs für 1–2 Fachbereiche mit hohem Anfragevolumen; Workflow-Ebene prüfen (derzeit geparkt) | Messbarer Self-Service-Anteil; Kapazitätsnachweis |
+| 2 – Empowering Peer | Monate 9–24 | Pilot-Fachbereich nach ca. 6 Monaten Intake-Daten wählen (Entscheidungslog Nr. 10); Self-Service-GPTs für 1–2 Fachbereiche; Workflow-Ebene prüfen (derzeit geparkt) | Messbarer Self-Service-Anteil; Kapazitätsnachweis |
 | Laufend | – | Quartalsweiser Review: KPIs, Use-Case-Portfolio, Veränderungslast | Jährliche Neubewertung des Reifegrads |
 
 Phase 1 und 2 überlappen bewusst. Bei voller Auslastung haben Intake und Wissensbasis immer Vorrang vor neuen GPTs.
@@ -142,8 +144,8 @@ Phase 1 und 2 überlappen bewusst. Bei voller Auslastung haben Intake und Wissen
 | Rolle | Aufgabe | Umfang |
 |---|---|---|
 | Sponsor (Leitung) | Priorisierung, Vorbildfunktion, Berichte an die Geschäftsleitung | – |
-| KI- und Legal-Ops-Verantwortung | Use-Case-Portfolio, Prompts und GPTs, KPIs | [X] % einer Person |
-| Wissensbasis-Kuratierung | verbindliche Dokumente, Metadatenqualität | [X] % einer Person oder rotierend |
+| KI- und Legal-Ops-Verantwortung | Use-Case-Portfolio, Prompts und GPTs, KPIs | zusammen mit der Kuratierung ca. 10–15 % Teamkapazität, verteilt auf 1–2 Personen (Entscheidungslog Nr. 7) |
+| Wissensbasis-Kuratierung | verbindliche Dokumente, Metadatenqualität | (siehe oben) |
 | Schnittstellen | IT (Enterprise-LLM, ITSM), Unternehmens-KI-Governance, Datenschutz | nach Bedarf |
 
 ## 9. Risiken
@@ -157,12 +159,16 @@ Phase 1 und 2 überlappen bewusst. Bei voller Auslastung haben Intake und Wissen
 | Datenschutz und Vertraulichkeit | Datenklassen in der Richtlinie, Anschluss an Unternehmens-Governance und EU AI Act |
 | Die Wissensbasis bleibt leer | Kuratierung als feste Teilrolle; Wissensteilen anerkennen (ACC Knowledge Management, kultureller Faktor) |
 
-## 10. Offene Entscheidungen für das Team
+## 10. Vorentscheidungen und offene Punkte
 
-1. Zielbild bestätigen: Stufe 1 *Scaled Enablement*, Stufe 2 *Empowering Peer*, „Reimagine“ bewusst nicht vor [ZIELJAHR]?
-2. Teilrollen: Wer übernimmt KI-/Legal-Ops-Verantwortung und Kuratierung, mit welchem Zeitanteil?
-3. Nutzungserwartung: Ab wann gilt „KI zuerst“ für Standardfälle verbindlich?
-4. KPI-Set: Welche 4–5 der vorgeschlagenen Kennzahlen berichten wir an die Geschäftsleitung?
-5. Self-Service in Stufe 2: Mit welchem Fachbereich pilotieren wir?
+Vorentschieden (Bestätigung im Team-Workshop, siehe [Entscheidungslog](entscheidungslog.md) Nr. 6–10):
+1. Zielbild zweistufig: *Scaled Enablement*, dann *Empowering Peer*; „Reimagine“ nicht vor [ZIELJAHR].
+2. Teilrollen mit zusammen ca. 10–15 % Teamkapazität, keine neue Stelle.
+3. „KI zuerst“ wird nach ca. 3 Monaten Einführung für Standardfälle verbindlich.
+4. Vier KPI-Gruppen an die Geschäftsleitung, einschließlich Kapazitätsnachweis.
+5. Pilot-Fachbereich für Self-Service wird nach ca. 6 Monaten anhand der Intake-Daten gewählt.
 
-Die Entscheidungen werden nach der Abstimmung im [Entscheidungslog](entscheidungslog.md) festgehalten.
+Offen für den Workshop:
+- Ist-Stufen in den sechs ACC-Bereichen (Abschnitt 6)
+- Konkrete Verteilung der Teilrollen im Team
+- [ZIELJAHR] und Startzeitpunkt der Roadmap
