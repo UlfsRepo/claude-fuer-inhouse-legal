@@ -9,3 +9,13 @@ Jede Richtungsentscheidung mit Datum und Begründung. Neue Einträge unten anfü
 | 3 | Flache Struktur mit drei Bibliotheken: Verträge, Templates/Muster, Stellungnahmen/Gutachten; Korrespondenz nur aktengebunden | Begründung nachtragen | vor Projektstart, nachtragen |
 | 4 | Schlankes Datenmodell: 6–8 Metadatenfelder pro Bibliothek, Auswahllisten statt Freitext, CLM-migrationsfähig | Begründung nachtragen | vor Projektstart, nachtragen |
 | 5 | Pro Kategorie genau ein als verbindlich markiertes Dokument | Begründung nachtragen | vor Projektstart, nachtragen |
+
+## Stützung durch die Recherche (Stand 25.09.2026)
+
+Die Entscheidungen 1–5 sind durch die Recherche gedeckt ([Synthese Runde 1](../01_recherche/synthese-recherche-runde-1.md), Befund 3). Das ersetzt nicht die eigene Begründung des Teams:
+- **Nr. 1 Intake zuerst:** Im ACC Legal Ops Maturity Model 2.0 sind Intake und Triage Merkmale der mittleren Stufe, also der nächste Reifeschritt. TR empfiehlt als ersten Use Case den Workflow mit dem höchsten Volumen und dem geringsten Urteilsanteil.
+- **Nr. 2–5 Wissensbasis:** Die mittlere ACC-Stufe verlangt zentrales Repository, Kuratierung und eine feste Zuständigkeit. Die größte Lücke zwischen Nutzen und Nutzung liegt bei der Dokumentenerstellung (Bucerius 2026: 83,8 % halten KI dafür für hilfreich, 51,5 % nutzen sie). Verbindliche Muster sind die Voraussetzung dafür.
+
+## Zur Entscheidung vorgeschlagen
+
+Aus dem [Strategiepapier-Entwurf v0.1](strategiepapier.md), Abschnitt 10. Noch nicht beschlossen.
