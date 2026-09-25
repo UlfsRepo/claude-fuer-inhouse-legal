@@ -30,6 +30,11 @@ jedem Browser öffnen lässt.
 
 ## Weg B — ChatGPT Enterprise
 
+**Der einfache Weg:** Wenn der GPT „Prozessmap-Studio" eingerichtet ist
+(`chatgpt/einrichtung-custom-gpt.md`), genügt: GPT öffnen, Map anhängen,
+„Poster bitte" — das HTML kommt als Download-Datei. Der Rest dieses
+Abschnitts ist der Fallback ohne GPT:
+
 Normaler Chat, **zwei Dateien anhängen**: die Map (`…-map-….md`) und die
 Vorlage (`prozessmap-visual-template.html`). Prompt zum Kopieren:
 

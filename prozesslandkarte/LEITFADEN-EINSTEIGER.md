@@ -81,16 +81,17 @@ Nimm dir gerade hier Zeit — das ist der wertvollste Teil des ganzen Interviews
 
 ### Schritt 4 — Das Dokument speichern (5 Min)
 
-**Bei ChatGPT:** Am Ende gibt die KI das fertige Dokument als grauen
-Textkasten (Codeblock) aus.
-1. Klicke oben rechts am Kasten auf **„Code kopieren"**.
-2. Öffne einen Texteditor (Windows: Editor/Notepad — Startmenü, "Editor" tippen).
-3. Einfügen (Strg+V).
-4. **Speichern unter** → zum vereinbarten Ablageort navigieren (fragt eure
-   Teamleitung; z. B. der Team-Ordner `prozesslandkarte/prozesse/<bereich>/`)
-   → Dateiname exakt wie von der KI vorgeschlagen, z. B.
-   `uk-01-pressemitteilung-versenden.md` → bei „Dateityp" **„Alle Dateien"**
-   wählen, damit die Endung `.md` erhalten bleibt → Speichern.
+**Bei ChatGPT:** Am Ende bietet die KI das fertige Dokument als
+**Download-Datei** an.
+1. Auf den Download-Link klicken — die Datei landet in Deinem Downloads-Ordner.
+2. Datei von dort an den vereinbarten Ablageort verschieben (fragt eure
+   Teamleitung; z. B. der Team-Ordner `prozesslandkarte/prozesse/<bereich>/`).
+   Fertig.
+
+*Falls stattdessen ein grauer Textkasten (Codeblock) erscheint:* oben rechts
+am Kasten **„Code kopieren"** → Texteditor öffnen (Windows: Editor/Notepad) →
+einfügen → **Speichern unter** → Dateiname wie von der KI vorgeschlagen →
+bei „Dateityp" **„Alle Dateien"** wählen, damit die Endung `.md` bleibt.
 
 **Bei Claude Code:** Die Datei ist schon gespeichert — Claude nennt dir den Pfad.
 

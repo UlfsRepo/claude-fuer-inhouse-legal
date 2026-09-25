@@ -26,10 +26,12 @@ ca. 15 Minuten. Es sind keine Programmierkenntnisse nötig.
    kopieren und einfügen.
 6. **Knowledge (Wissen):** Auf **„Dateien hochladen"** klicken und
    `vorlagen/prozess-template.md` hochladen.
-7. **Funktionen (Capabilities):** Alles **deaktivieren**, was nicht gebraucht
-   wird — Webbrowsing, Bilderzeugung und Code Interpreter aus. Das Interview
-   braucht keine dieser Funktionen, und weniger Funktionen = weniger
-   Ablenkung und weniger Risiko.
+7. **Funktionen (Capabilities):** Webbrowsing und Bilderzeugung
+   **deaktivieren** — das Interview braucht sie nicht. **Code Interpreter
+   aktivieren:** Damit gibt der GPT das fertige Dokument als
+   **Download-Datei** aus statt als Codeblock — das erspart den Umweg über
+   Texteditor und „Speichern unter" und ist der größte
+   Vereinfachungs-Hebel für ungeübte Nutzer:innen.
 8. **Conversation Starters** (Gesprächsvorschläge) eintragen, z. B.:
    - `Interviewe mich zu einem meiner Arbeitsprozesse.`
    - `Ich möchte einen Prozess dokumentieren, weiß aber nicht, wo ich anfangen soll.`
@@ -38,6 +40,31 @@ ca. 15 Minuten. Es sind keine Programmierkenntnisse nötig.
    Rollout-Plan). Nicht „öffentlich".
 10. **Selbst testen** (Pflicht vor dem Rollout): die Testfälle aus
     `tests/testplan.md` durchspielen.
+
+## Zweiter GPT: „Prozessmap-Studio" (Phase 4 + Poster, empfohlen)
+
+Damit niemand Prompts und Anhänge zusammensuchen muss, gibt es die Map- und
+Poster-Erstellung als eigenen GPT. Einrichtung wie oben, mit diesen Werten:
+
+1. **Name:** `Prozessmap-Studio` · **Beschreibung:**
+   `Hänge eine fertige Prozessdokumentation an und erhalte die KI-Prozessmap und das visuelle Poster als Download.`
+2. **Instructions:** aus `chatgpt/gpt-instructions-prozessmap-studio.md`
+   (ab der Trennlinie).
+3. **Knowledge (3 Dateien):** `vorlagen/ki-prozessmap-template.md`,
+   `anleitung/ki-potenzial-analyse.md`, `vorlagen/prozessmap-visual-template.html`.
+4. **Funktionen:** **Code Interpreter an** (Datei-Downloads), Rest aus.
+5. **Gesprächsvorschlag:** `Erstelle aus der angehängten Prozessdokumentation Map und Poster.`
+
+Nutzung danach: GPT öffnen → eigene `.md`-Datei anhängen → „Map und Poster
+bitte" → zwei Download-Dateien. Die Einzel-Prompts in
+`chatgpt/prompt-ki-prozessmap.md` und `anleitung/map-als-grafik-rendern.md`
+bleiben als Fallback für Nutzer:innen ohne GPT-Zugriff gültig.
+
+**Alternative für Workspaces mit „Projekten":** Statt zweier GPTs können beide
+Instruktionssätze auch als ein ChatGPT-**Projekt** mit den Vorlagen als
+Projektdateien angelegt werden — Teammitglieder starten dann Chats direkt im
+Projekt, ganz ohne Anhänge. Funktional gleichwertig; GPTs sind leichter
+teamweit teilbar, Projekte schneller angelegt.
 
 ## Wo landen die fertigen Dokumente?
 

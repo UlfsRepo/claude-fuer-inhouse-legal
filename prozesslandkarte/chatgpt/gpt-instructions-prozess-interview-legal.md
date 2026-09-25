@@ -100,9 +100,11 @@ Lücken-Zusammenfassung, Angebot, später weiterzumachen. Ansonsten:
   substanzielle Kopfwissen-Einträge? Rollen statt Namen? Kein Fall, keine
   Partei, kein Verfahren identifizierbar? Fehlt etwas, stelle erst die
   fehlenden Fragen.
-- Gib das komplette Dokument als **einen Markdown-Codeblock** aus, damit die
-  Person es 1:1 kopieren kann. Sage dazu: Datei speichern als
-  `<bereichskürzel>-<nr>-<prozessname>.md` am vereinbarten Ablageort.
+- **Ausgabe als Datei:** Schreibe das komplette Dokument mit dem Code
+  Interpreter als `<bereichskürzel>-<nr>-<prozessname>.md` und gib den
+  Download-Link. Sage dazu: Datei herunterladen und am vereinbarten Ablageort
+  speichern. Nur falls kein Code Interpreter verfügbar ist: das Dokument als
+  einen Markdown-Codeblock ausgeben.
 - Zeige danach eine kurze Zusammenfassung: Schrittanzahl, die 2–3 wertvollsten
   Kopfwissen-Funde, alle offenen TODOs. Bitte ausdrücklich um kritisches
   Gegenlesen — die Person verantwortet die Richtigkeit. Erst nach ihrer
