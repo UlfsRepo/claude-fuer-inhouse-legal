@@ -36,6 +36,10 @@ Neben den Claude-Code-Plugins enthält das Repo unter **[ki-use-cases](ki-use-ca
 
 Unter **[prozesslandkarte](prozesslandkarte/)** liegt ein vollständiges Framework, um die Prozesse eines Bereichs systematisch zu erfassen und KI-tauglich zu dokumentieren: Landkarten- und Prozess-Templates, ein KI-geführtes Interview-Format (als Claude-Skill und als Custom-GPT-Instructions für ChatGPT Enterprise), Mitarbeiter-Leitfaden, KI-Potenzial-Analyse, ein anonymisiertes Beispiel (Krisenkommunikation) sowie Testplan und Prüfbogen. Einstieg über den [Einsteiger-Leitfaden](prozesslandkarte/LEITFADEN-EINSTEIGER.md); ein Starter-Paket für Legal liegt unter [starter-pakete/legal](prozesslandkarte/starter-pakete/legal/).
 
+## KI-Strategie (Strategie-Framework für Rechtsabteilungen)
+
+Unter **[ki-strategie](ki-strategie/)** entsteht eine forschungsbasierte KI-Strategie nach dem Leitprinzip „AI first“ für die Rechtsabteilung eines international tätigen Industrieunternehmens: Studien-Exzerpte mit Quellenverzeichnis, Strategiepapier mit Entscheidungslog, Umsetzungsbausteine (Intake, Wissensbasis), kopierfertige Artefakte für ein Enterprise-LLM und die Storyline für die Geschäftsleitung. Aufbauend auf dem [Research-Memo „Legal Department 2030“](research/legal-department-2030-research.md); alle unternehmensspezifischen Angaben als Platzhalter.
+
 ## Bauprinzip aller Module
 
 1. **Methodik öffentlich, Daten lokal** — Skills beschreiben das Wie; das Was (Mandate, Ziele, Zahlen) bleibt beim Nutzer

@@ -1,0 +1,13 @@
+# Vertrauliches bleibt lokal – nie committen
+lokal/
+*_privat.*
+
+# Office-Dateien und PDFs: finale, unternehmensbezogene Fassungen entstehen lokal
+*.pptx
+*.docx
+*.xlsx
+*.pdf
+~$*
+
+# System
+.DS_Store
