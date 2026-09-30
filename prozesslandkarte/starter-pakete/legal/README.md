@@ -8,8 +8,9 @@ in der internen Ablage ergänzt, nicht hier.
 
 | Datei | Zweck |
 |---|---|
+| `rollout-checkliste.md` | **Hier starten:** der komplette Weg von null bis zum laufenden Betrieb in 15 abhakbaren Schritten (Setup → Generalprobe → Validierung → Rollout) |
 | `landkarte-legal-starter.md` | Vorbefüllte Bereichs-Landkarte mit ~20 typischen Legal-Prozessen — im Workshop streichen, umbenennen, ergänzen statt bei null anfangen |
-| `vertraulichkeit-legal.md` | Verschärfte Vertraulichkeitsregeln für das KI-Interview in Rechtsabteilungen (Mandatsgeheimnis!) — zum Einfügen in GPT-Instructions bzw. Claude-Skill, plus Prüfliste fürs Review |
+| `vertraulichkeit-legal.md` | Verschärfte Vertraulichkeitsregeln für das KI-Interview in Rechtsabteilungen (Mandatsgeheimnis!) — zum Einfügen in GPT-Instructions bzw. Claude-Skill, plus Prüfliste fürs Review (in der Legal-Edition der GPT-Instructions bereits enthalten) |
 
 ## So nutzt ihr das Paket (Phase 1: Inventur-Workshop, 60–90 Min)
 
