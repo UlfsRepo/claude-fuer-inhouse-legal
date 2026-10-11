@@ -15,6 +15,7 @@ Kernmodul für Inhouse-Rechtsabteilungen, die ihre Arbeitsorganisation professio
 | [landesgesellschaften-playbooks](skills/landesgesellschaften-playbooks/SKILL.md) | Englische Self-Service-Playbooks, Reserved-Matters-Katalog, Entscheidungsbaum |
 | [delegation-of-authority](skills/delegation-of-authority/SKILL.md) | DoA-Regelung: Bestandsaufnahme, Freigabematrix, Unterschriften-Policy, Audit-Response |
 | [zielstand-review](skills/zielstand-review/SKILL.md) | Wochen-Review gegen Jahresziele mit Ampel, Lückenanalyse, Top-3-Prioritäten |
+| [management-deck-review](skills/management-deck-review/SKILL.md) | Review einer Management-Präsentation vor der Abgabe: KI-Sprach-Check, Stakeholder-Check gegen lokales Profil der Adressatin, Kürzungsvorschlag nach Zeitbudget |
 | [governance-format](skills/governance-format/SKILL.md) | Einheitliches Format für 1-Pager, Playbooks, Checklisten, Berichte |
 | [vertraulichkeits-gate](skills/vertraulichkeits-gate/SKILL.md) | **Verpflichtendes Gate** vor jeder Weitergabe: trennt Methodik von vertraulichen Daten |
 
@@ -29,6 +30,7 @@ landesges.-playbooks─┼► füllen die Bibliothek mit Standards
 delegation-of-auth. ─┘   (DoA: WER entscheidet und unterschreibt)
 governance-format  ──► sorgt für EIN Erscheinungsbild
 zielstand-review   ──► hält alles im Wochentakt auf Kurs
+mgmt-deck-review   ──► prüft Berichte nach oben, bevor sie rausgehen
 vertraulichkeits-gate ► prüft ALLES vor Weitergabe
 ```
 
