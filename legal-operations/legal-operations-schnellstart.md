@@ -34,6 +34,10 @@ Kompakte Einstiege für jeden Skill — funktionieren in Claude ebenso wie per C
 
 > Führe einen Zielstand-Review durch. Hier meine Ziele mit Stand: [Inhalt der lokalen zielstand.md einfügen — oder zum Üben die Testakte: testakte/zielstand.md]. Restzeit bis zur Frist: [N Wochen]. Liefere: Ampel je Ziel mit Ein-Satz-Begründung, Lücke bis 100 % (Übererfüllung nur, wo 100 % gesichert ist), maximal 3 Prioritäten für nächste Woche, Risiken/Abhängigkeiten. Regel: kein Übererfüllungs-Aufwand, solange ein Ziel rot ist.
 
+## Management-Deck vor der Abgabe prüfen
+
+> Prüfe die angehängte Präsentation in drei Stufen, bevor ich sie an [Rolle der Adressatin] gebe. Rahmen: Termin [Dauer], [präsentiert / vorab gelesen], Gesprächsziel [Information / gemeinsames Bild / Entscheidung / Freigabe]. (0) Liste offene Platzhalter und Querverweise. (1) KI-Sprach-Check [streng / nur auffällige Stellen]: Zahlwort-Headlines, Antithesen („X statt Y"), Doppelpunkt-Headlines, Vision-Floskeln, übernommenes Vokabular der Adressatin, wiederholte Kernphrasen — je Fund Folie → Zitat → Problem → Alternative. (2) Stakeholder-Check gegen dieses Profil: [Profil einfügen — Überzeugung, Bewertungsachsen, Spannungsfelder, Wünsche]: erster Eindruck, Bewertung je Achse, innere Widersprüche, 3–6 simulierte Rückfragen (als simuliert kennzeichnen), Positionierungsrisiken, Gesamturteil 1–10. (3) Kürzungsvorschlag: jede Folie als Kern / Zusammenlegen / Anhang / Nur mündlich, Variante empfohlen und aggressiv. Nichts erfinden, was nicht im Profil steht.
+
 ## Dokument ins Governance-Format bringen
 
 > Bringe das folgende Dokument in ein einheitliches Governance-Format: Kopf (Titel, Stand, Version, verantwortliche Rolle, Geltungsbereich), Zweck in max. 3 Sätzen zuerst, Verben statt Substantivketten, abhakbare Punkte mit einer Handlung pro Zeile, Versionierungszeile. Typ: [1-Pager / Playbook / Checkliste / Bericht]. Dokument: [einfügen]

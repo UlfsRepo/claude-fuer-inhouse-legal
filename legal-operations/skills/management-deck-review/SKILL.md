@@ -41,10 +41,9 @@ Der Stakeholder-Check arbeitet mit einer **lokalen Datei des Nutzers** (nicht im
 ## Kompass (Achsen, an denen sie bewertet)
 | Achse | Leitsatz | Was sie daran prüft |
 |---|---|---|
-| <z. B. Klarheit schaffen> | | |
-| <z. B. am Tisch sitzen> | | |
-| <z. B. unabhängiges Urteil> | | |
-| <z. B. Funktion weiterentwickeln> | | |
+| <z. B. Entscheidungsreife> | | |
+| <z. B. Risikotransparenz> | | |
+| <z. B. Geschäftsnähe> | | |
 
 ## Spannungsfelder (die sie selbst benennt oder erkennbar lebt)
 - <Pol A ↔ Pol B>
@@ -59,7 +58,7 @@ Der Stakeholder-Check arbeitet mit einer **lokalen Datei des Nutzers** (nicht im
 - <z. B. Vorlauf vor Terminen, Du/Sie, Sprache, Format>
 ```
 
-**Regel:** Beobachtung schlägt Selbstbild. Wenn ein Leitbild sagt „ich mag knappe Vorlagen" und die Beobachtung sagt „fragt immer nach dem Anhang", gilt die Beobachtung — und die Abweichung wird im Output benannt.
+**Regel:** Beobachtung schlägt Selbstbild. Wenn ein Leitbild sagt „ich will das Wesentliche auf einer Seite" und die Beobachtung sagt „liest zuerst die Detailtabellen", gilt die Beobachtung — und die Abweichung wird im Output benannt.
 
 **Regel:** Nichts erfinden. Wo das Profil zu einer Frage nichts hergibt, steht im Output „nur aus dem Leitbild abgeleitet" oder „hier rate ich".
 
@@ -71,23 +70,23 @@ Vertrauliche Details (Namen, Zitate, interne Beobachtungen) gehören nur in dies
 
 Suche nach Platzhaltern: `[...]`, `TBD`, `XXX`, `??`, `[Termin]`, `[Name]`, `[bestätigen]`. Liste sie mit Folien- oder Seitennummer. Wenn der Termin näher als der zugesagte Vorlauf ist, steht das **an erster Stelle des Outputs**, vor jeder Sprachkritik.
 
-Prüfe außerdem Querverweise („siehe Folie 16") — sie brechen bei jeder Kürzung.
+Prüfe außerdem Querverweise („siehe Folie N") — sie brechen bei jeder Kürzung.
 
 ### Stufe 1: KI-Sprach-Check
 
 Die Signatur generierter Texte liegt selten in einzelnen Wörtern, sondern in **Mustern, die sich über das Dokument wiederholen**. Prüfe in dieser Reihenfolge:
 
-**Muster A — Zahlwort-Headlines.** „Fünf Ergebnisse", „Drei Dinge müssen gelingen", „Vier Faktoren bremsen". Einzeln harmlos; ab drei im Dokument ein Listicle-Muster. Regel: höchstens zwei behalten (die, bei denen die Zahl selbst die Botschaft ist), die anderen auf die Aussage umstellen.
+**Muster A — Zahlwort-Headlines.** „Drei Erkenntnisse", „Vier Schritte zum Ziel", „Zwei Risiken bleiben". Einzeln harmlos; ab drei im Dokument ein Listicle-Muster. Regel: höchstens zwei behalten (die, bei denen die Zahl selbst die Botschaft ist), die anderen auf die Aussage umstellen.
 
-**Muster B — Chiasmus und Antithese.** „mit dem Team, nicht nur für das Team", „X statt Y", „nicht nur …, sondern …", „stark, aber langsam". Zähle die Fälle. Eine beobachtete, präzise Antithese darf bleiben; der Rest wird zur schlichten Aussage.
+**Muster B — Chiasmus und Antithese.** „X statt Y", „nicht nur …, sondern …", „nicht A, sondern B", „schnell, aber unsicher". Zähle die Fälle. Eine beobachtete, präzise Antithese darf bleiben; der Rest wird zur schlichten Aussage.
 
 **Muster C — Headline-Interpunktion.** Doppelpunkt-Einleitungen („Ausgangslage: …"), Semikolon-Headlines, Dreier-Reihungen in der Überschrift. Mehr als zwei im Dokument sind ein Muster.
 
-**Muster D — Topoi aus KI-Vision-Texten.** „Zeit für das, was nur Menschen können", „Grundlage gelegt", „Hebel", „am Tisch sitzen", „Wirkung entfalten", „bewusst" als Füller, rhetorische Fragen als Bullet („Wirkt, was wir tun?"), abstrakte Beruhigungsformeln („wo Präzision zwingend ist, bleibt sie Maßstab").
+**Muster D — Topoi aus KI-Vision-Texten.** „Freiraum für Wertschöpfung", „Grundlage gelegt", „Hebel", „Wirkung entfalten", „ganzheitlich", „bewusst" als Füller, rhetorische Fragen als Bullet („Sind wir bereit?"), abstrakte Beruhigungsformeln („Qualität bleibt dabei der Maßstab").
 
 **Muster E — Vokabular der Adressatin.** Wenn das Dokument Leitbegriffe der Adressatin wörtlich übernimmt (aus ihrem Profil, ihren Mails, ihrem Kompass), prüfe: Wirkt es als Anschluss oder als Anbiederung? Faustregel: Ihren Wortlaut zitieren ist gut; ihre Vokabel als eigene Formulierung übernehmen ist riskant.
 
-**Muster F — Wiederholte Kernphrase.** Dieselbe Wendung dreimal im Dokument („das Geschäft, mit dem wir Geld verdienen") wirkt generiert, auch wenn sie beim ersten Mal stark war. Einmal behalten.
+**Muster F — Wiederholte Kernphrase.** Dieselbe Wendung dreimal im Dokument (z. B. „nah am Kunden") wirkt generiert, auch wenn sie beim ersten Mal stark war. Einmal behalten.
 
 Daneben: echte Sprachfehler (Grammatik, abgebrochene Sätze, Folien, die nicht allein stehen können, obwohl sie es sollen).
 
@@ -99,10 +98,10 @@ Lies das Stakeholder-Profil. Dann:
 
 1. **Erster Eindruck (30 Sekunden).** Was nimmt die Adressatin beim Überfliegen mit? Ist sofort klar, was Priorität hat und was von ihr erwartet wird?
 2. **Kompass-Prüfung.** Je Achse ihres Profils: stark / ausreichend / schwach / fehlt — mit Zitat der relevanten Stelle. Eine Achse, die im Profil steht und im Dokument gar nicht vorkommt, ist der wichtigste Befund.
-3. **Spannungsfeld-Prüfung.** Welche ihrer Spannungen berührt das Dokument? Kippt es zu einem Pol (z. B. nur Partner, keine unabhängige Linie; nur viele Bälle, keine Priorisierung)?
-4. **Innere Widersprüche.** Behauptet das Dokument auf einer Seite etwas, das eine andere Seite widerlegt (z. B. „Verantwortung in der Linie" neben einer Tabelle, in der bei sieben von acht Punkten der Autor steht)? Diese Widersprüche findet die Adressatin zuerst.
+3. **Spannungsfeld-Prüfung.** Welche ihrer Spannungen berührt das Dokument? Kippt es zu einem Pol (z. B. nur Tempo, keine Sorgfalt; nur Breite, keine Priorisierung)?
+4. **Innere Widersprüche.** Behauptet das Dokument auf einer Seite etwas, das eine andere Seite widerlegt (z. B. „Wir befähigen die Fachbereiche" neben einer Maßnahmentabelle, in der fast überall die eigene Abteilung als verantwortlich steht)? Diese Widersprüche findet die Adressatin zuerst.
 5. **Simulierte Rückfragen.** 3–6 Fragen, die sie stellen würde — in ihrer Stimme, als simuliert gekennzeichnet, abgeleitet aus Kompass und Spannungsfeldern. Jede Frage, die das Dokument schon beantwortet, ist keine.
-6. **Positionierungsrisiken für den Autor.** Wo könnte das Dokument ungewollt wirken: zu viel Ego, zu wenig klare Linie, Kritik am Unternehmen von jemandem mit kurzer Zugehörigkeit, Übergriff in das Terrain der Adressatin (besonders bei Themen, in denen der Autor mehr Expertise hat als sie, die Richtung aber bei ihr liegt)?
+6. **Positionierungsrisiken für den Autor.** Wo könnte das Dokument ungewollt wirken: zu viel Ego, zu wenig klare Linie, Kritik am Unternehmen, für die dem Autor (noch) das Standing fehlt, Übergriff in das Terrain der Adressatin (besonders bei Themen, in denen der Autor mehr Expertise hat als sie, die Richtung aber bei ihr liegt)?
 7. **Änderungsvorschläge.** Je Schwachstelle: Zitat → Problem → Vorschlag → erwarteter Effekt (idealerweise: „beantwortet Rückfrage N, bevor sie gestellt wird").
 8. **Gesamturteil.** 1–10, ein Satz, plus Grundlage: „Leitbild" oder „Leitbild + Beobachtung" mit Stand.
 
@@ -114,7 +113,7 @@ Dann ordne jede Folie einer von vier Klassen zu:
 
 | Klasse | Kriterium |
 |---|---|
-| **Kern** | Trägt direkt zum Gesprächsziel bei oder ist von der Adressatin ausdrücklich erbeten (z. B. „Stand meiner Liste") |
+| **Kern** | Trägt direkt zum Gesprächsziel bei oder ist von der Adressatin ausdrücklich erbeten (z. B. ein Statusbericht, um den sie gebeten hat) |
 | **Zusammenlegen** | Zwei Folien laufen entlang derselben Struktur (z. B. Zielsätze → Zielzustand und Zielsätze → Lücke) — eine Tabelle mit drei Spalten ersetzt beide |
 | **Anhang** | Belegt eine Kern-Folie im Detail; wird nur bei Nachfrage gebraucht |
 | **Nur mündlich** | Hohes Fehlwirkungsrisiko (Kulturkritik, Hypothesen, Namen) oder kein Beitrag zum Ziel — als Gesprächsangebot besser als auf Folie |
