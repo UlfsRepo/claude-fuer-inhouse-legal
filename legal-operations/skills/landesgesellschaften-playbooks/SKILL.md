@@ -25,14 +25,21 @@ Typische Standardthemen (Auswahl an Bedarf anpassen):
 - **Corporate governance** (Vollmachten, Zeichnungsregeln, Gremienpflichten der lokalen Einheit)
 - **Product liability** (Meldewege bei Produktvorfällen, Behördenkontakt)
 
-Struktur je Playbook (2–4 Seiten, mehr nicht):
+Struktur je Playbook (4–6 Seiten Kern plus Länderanlage; Vorlage: `examples/templates/PLAYBOOK_TEMPLATE.md`):
 ```
-1. Scope           — what this playbook covers / does not cover
-2. You can decide  — standard cases, steps, approved templates
-3. Red flags       — signs this is NOT a standard case
-4. Escalate when   — hard criteria (see Reserved Matters)
-5. How to escalate — handover format, required information, response time
+0. Header            — ID, owner, version, last/next review, country-annex source
+1. Purpose & scope   — what this playbook covers / does not cover
+2. Who does what     — requester, ambassador, local counsel, HQ Legal
+3. Case categories   — C1…Cn with route: Local / Local with standard answer / Escalate
+4. Decision tree     — yes/no questions, every leaf a route; [THRESHOLD]/[RESERVED] placeholders
+5. Standard answers  — S1…Sn: check / answer (model text) / document / becomes escalation when
+6. Escalation        — automatic triggers, handover form, recipient
+7. FAQ               — questions ambassadors actually ask
+8. Country annex     — per-jurisdiction facts, dated, filled from a country-law source
+9. Sources & status  — legal status date, structural sources, open points
+10. Change log
 ```
+Rechtsinhalt bleibt dünn und zitatfrei; alles Länderspezifische gehört in die Anlage (Abfrageliste je Playbook unter `examples/justima-queries/`). Ein ausgearbeitetes Beispiel: `examples/playbooks/01_standard-terms.md`.
 
 ## Baustein 2: Reserved-Matters-Katalog
 
