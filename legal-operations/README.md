@@ -16,6 +16,7 @@ Kernmodul für Inhouse-Rechtsabteilungen, die ihre Arbeitsorganisation professio
 | [delegation-of-authority](skills/delegation-of-authority/SKILL.md) | DoA-Regelung: Bestandsaufnahme, Freigabematrix, Unterschriften-Policy, Audit-Response |
 | [zielstand-review](skills/zielstand-review/SKILL.md) | Wochen-Review gegen Jahresziele mit Ampel, Lückenanalyse, Top-3-Prioritäten |
 | [management-deck-review](skills/management-deck-review/SKILL.md) | Review einer Management-Präsentation vor der Abgabe: KI-Sprach-Check, Stakeholder-Check gegen lokales Profil der Adressatin, Kürzungsvorschlag nach Zeitbudget |
+| [schnittmengen-deck](skills/schnittmengen-deck/SKILL.md) | Deck für das erste Arbeitstreffen mit einer neuen Stakeholderin (z. B. neue GC einer Beteiligung): Team vorstellen, ihren Bericht spiegeln, Schnittmengen-Matrix, gemeinsame Prioritäten als Vorschlag |
 | [governance-format](skills/governance-format/SKILL.md) | Einheitliches Format für 1-Pager, Playbooks, Checklisten, Berichte |
 | [vertraulichkeits-gate](skills/vertraulichkeits-gate/SKILL.md) | **Verpflichtendes Gate** vor jeder Weitergabe: trennt Methodik von vertraulichen Daten |
 
@@ -31,6 +32,7 @@ delegation-of-auth. ─┘   (DoA: WER entscheidet und unterschreibt)
 governance-format  ──► sorgt für EIN Erscheinungsbild
 zielstand-review   ──► hält alles im Wochentakt auf Kurs
 mgmt-deck-review   ──► prüft Berichte nach oben, bevor sie rausgehen
+schnittmengen-deck ──► eröffnet die Zusammenarbeit mit neuen Stakeholdern
 vertraulichkeits-gate ► prüft ALLES vor Weitergabe
 ```
 
