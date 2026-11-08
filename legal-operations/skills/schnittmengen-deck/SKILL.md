@@ -63,6 +63,7 @@ Für ~60 Minuten mit Diskussionsanteil. Bei kürzeren Terminen Folien 5 und 6 zu
 - **Sprache des Decks** = Sprache ihres Berichts (meist Englisch). **Speaker Notes** in der Arbeitssprache der Vortragenden, mit Regieanweisungen („hier Diskussion zulassen", „Thema X nur mündlich").
 - Vor Abgabe: offene Platzhalter listen (Fotos, Namen, unbestätigte Zuständigkeiten) und dem Nutzer als Restarbeit benennen.
 - Optional [management-deck-review](../management-deck-review/SKILL.md) als Qualitätsstufe; vor jeder Weitergabe über die eigene Maschine hinaus das [vertraulichkeits-gate](../vertraulichkeits-gate/SKILL.md).
+- Für ChatGPT Enterprise liegen fertige Custom-GPT-Instructions in [`chatgpt/gpt-instructions-schnittmengen-deck.md`](../../chatgpt/gpt-instructions-schnittmengen-deck.md) — das GPT liefert die Folientexte, das Layout kommt aus einer eigenen PowerPoint-Vorlage.
 
 ## Dramaturgie-Regeln
 
